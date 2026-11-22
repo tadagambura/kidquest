@@ -1,6 +1,6 @@
 # KidQuest: Spec
 
-**Screen-free activity ideas in seconds** · #16 of 33 · Wave 2: Recurring keepers · Used: Weekly · Easy, content-heavy · Revenue potential: Medium · Family, Pets & Plants · Source: Perplexity
+**Screen-free activity ideas in seconds** · #12 of 32 · Wave 1: Daily keepers · Used: Weekly · Easy, content-heavy · Revenue potential: Medium · Family, Pets & Plants · Source: Perplexity
 
 ## One-liner
 
