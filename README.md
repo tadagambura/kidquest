@@ -2,7 +2,7 @@
 
 **Screen-free activity ideas in seconds**
 
-> #19 of 33 in the build order · Easy, content-heavy · Revenue potential: Medium · Family, Pets & Plants
+> #16 of 33 · Wave 2: Recurring keepers · Used: Weekly · Easy, content-heavy · Revenue potential: Medium · Family, Pets & Plants
 
 ## What it is
 
@@ -54,6 +54,10 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Share | Activity photos (shared by parents) |
 | Next step | A new seasonal pack |
 | Cadence | Weekly, with holiday peaks |
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does.
 
 ## Watch-outs
 
