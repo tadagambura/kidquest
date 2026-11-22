@@ -86,4 +86,4 @@ The depth and quality of the library is the real work. Parent-facing only: keep 
 - [ ] Landing page
 - [ ] Analytics wired (D1/D7/D30 retention)
 - [ ] Payments / ads wired
-- [ ] Added to growth-engine as an app config
+- [ ] Added to the Growth & Maintenance Engine as an app config
