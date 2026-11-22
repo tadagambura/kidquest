@@ -49,11 +49,15 @@ Prices are starting points; test before committing. **Portfolio premium promise:
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Activity picker rolls like a dice; stickers for activities done
+- Pick an activity: a giant dice rolls across the screen
+- Done today: a sticker slaps onto the chart
+- Rainy-day mode: a stickman family in raincoats jumps in puddles
+- Week planned: a cardboard rocket launches
+- Seasonal pack: pumpkins or snowmen roll in
 
 
 ## AI
