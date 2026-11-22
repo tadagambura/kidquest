@@ -55,6 +55,13 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | A new seasonal pack |
 | Cadence | Weekly, with holiday peaks |
 
+## Animation and tone
+
+**Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
+
+- Activity picker rolls like a dice; stickers for activities done
+
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.
