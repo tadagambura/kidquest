@@ -1,48 +1,76 @@
 # KidQuest: Spec
 
+**Screen-free activity ideas in seconds** · #19 of 33 in the build order · Easy, content-heavy · Revenue potential: Medium · Family, Pets & Plants · Source: Perplexity
+
 ## One-liner
 
-Screen-free activity ideas in seconds
+Tell KidQuest your children's ages, how long you've got, indoors or out, and what's in the house, and it suggests activities with simple instructions. Save favourites and plan a week of ideas.
 
 ## Problem / audience
 
-- Who it's for:
-- The problem it solves:
+- **Who it's for:** Parents and carers of children aged 3–12.
+- **The problem it solves:** Bored kids, no plan and 30 minutes. Finding a suitable idea quickly is hard.
+- **Example:** A parent with 30 minutes and two bored children gets three indoor ideas using what's in the kitchen.
 
 ## MVP features (ship with only these)
 
-1.
-2.
-3.
+1. Filters: age, indoor/outdoor, time, energy, cost, materials
+2. Activity cards with simple steps
+3. Favourites and 'done today'
+4. Weekly activity planner
+5. Saved activities available offline
 
 ## Not in MVP
 
--
+- Printable packs
+- Seasonal packs: half-term, Christmas, summer
+- Rainy-day mode
 
 ## Monetisation
 
 | Model | Detail |
 |---|---|
-| Free tier | |
-| Paid | |
-| Ads | |
+| Free | Starter library, with non-personalised ads (the app is for parents) |
+| Premium | £3.99/month or annual: full library, printables, offline packs |
 
-## Platform & stack
+Prices are starting points; test before committing.
 
-- Platform: (web/PWA first unless there's a reason not to)
-- Stack:
-- Data: (local-only if possible)
+## Retention: The Progression Loop
 
-## Growth engine hooks
+| Stage | Design |
+|---|---|
+| Cue | Weekend and holiday prompts; rainy-day nudge |
+| Tiny win | Pick an activity |
+| Progress | Activities done, favourites |
+| Share | Activity photos (shared by parents) |
+| Next step | A new seasonal pack |
+| Cadence | Weekly, with holiday peaks |
 
-- Shareable output (what users would post):
-- Content pillars:
+Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
+never wiped, at most one notification a day by default.
+
+## Platform & data
+
+- **Platform:** Expo app.
+- **Data:** On the device only; the library ships as content.
+- **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
+
+## Growth engine
+
+- **Content pillars:** Rainy-day ideas; Half-term activities; Cheap and free fun
+- **Shareable output:** Activity photos (shared by parents)
+
+## Risks
+
+The depth and quality of the library is the real work. Parent-facing only: keep children's data out and ads non-personalised.
 
 ## Launch checklist
 
+- [ ] Name checked on the App Store, Play Store and a trademark search
 - [ ] MVP features done and tested
-- [ ] Privacy policy + terms
+- [ ] Progression Loop wired (cue, tiny win, progress, milestone, next step)
+- [ ] Privacy policy and terms
 - [ ] Landing page
-- [ ] Analytics wired
+- [ ] Analytics wired (D1/D7/D30 retention)
 - [ ] Payments / ads wired
 - [ ] Added to growth-engine as an app config
