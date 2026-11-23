@@ -1,0 +1,650 @@
+{
+  "pack": "kidquest-cards-1",
+  "version": 1,
+  "checked": "2026-11-23",
+  "reviewed": false,
+  "cards": [
+    {
+      "id": "c01",
+      "topic": "Talk and play",
+      "title": "Back-and-forth is the magic",
+      "body": "You don't need flashcards. The NSPCC's Look, Say, Sing, Play campaign encourages everyday back-and-forth: your baby coos, you coo back; they look at the dog, you name the dog. Think of it like a game of tennis. The NSPCC says these shared moments help children build skills like focus, self-control and problem-solving. Bathtime, nappy changes and the washing-up all count.",
+      "quiz": {
+        "q": "What does the NSPCC compare good interaction with a baby to?",
+        "options": [
+          "A lecture",
+          "A game of tennis",
+          "A quiz show"
+        ],
+        "answer": 1,
+        "explain": "Taking a cue from your child and responding, back and forth, is the heart of Look, Say, Sing, Play."
+      },
+      "source": {
+        "name": "NSPCC: Look, Say, Sing, Play",
+        "url": "https://www.nspcc.org.uk/advice-for-families/look-say-sing-play/"
+      },
+      "tags": [
+        "talk",
+        "babies",
+        "bonding"
+      ]
+    },
+    {
+      "id": "c02",
+      "topic": "Screen time",
+      "title": "Under 2s: hold off on screens",
+      "body": "In March 2026 the UK government published its first screen time guidance for under 5s. For under 2s, the advice is to avoid screen time, except for shared activities that encourage bonding and conversation, like a video call with Grandma. It's guidance, not a rulebook, and nobody's checking your living room. It's a helpful default to aim for.",
+      "quiz": {
+        "q": "What does UK guidance say about screens for under 2s?",
+        "options": [
+          "Up to 3 hours a day is fine",
+          "Avoid, except shared activities like family video calls",
+          "Only educational apps, as much as you like"
+        ],
+        "answer": 1,
+        "explain": "The 2026 UK guidance advises avoiding screens for under 2s, apart from shared, interactive moments like video calls with family."
+      },
+      "source": {
+        "name": "Best Start in Life (UK government): Screen time for under 5s (guidance published March 2026)",
+        "url": "https://www.beststartinlife.gov.uk/screen-time-under-5s"
+      },
+      "tags": [
+        "screen time",
+        "under 2s",
+        "uk guidance"
+      ]
+    },
+    {
+      "id": "c03",
+      "topic": "Screen time",
+      "title": "2 to 5s: about an hour, less if possible",
+      "body": "For children aged 2 to 5, the UK's 2026 guidance suggests keeping screen time to about 1 hour a day, and less if possible. It also says screens shouldn't replace sleep, active play or time with you. Some days will blow the budget. That's life. Aim for the general direction, not perfection.",
+      "quiz": {
+        "q": "What's the UK guidance for 2 to 5-year-olds?",
+        "options": [
+          "About 1 hour a day, less if possible",
+          "No limit at weekends",
+          "At least 2 hours of educational TV"
+        ],
+        "answer": 0,
+        "explain": "The 2026 guidance suggests around an hour a day for 2 to 5s, ideally less, without replacing sleep, play or time together."
+      },
+      "source": {
+        "name": "Best Start in Life (UK government): Screen time for under 5s (guidance published March 2026)",
+        "url": "https://www.beststartinlife.gov.uk/screen-time-under-5s"
+      },
+      "tags": [
+        "screen time",
+        "under 5s",
+        "uk guidance"
+      ]
+    },
+    {
+      "id": "c04",
+      "topic": "Screen time",
+      "title": "Watch with them, not just near them",
+      "body": "When screens are on, the UK guidance says watching together and chatting about what you see is better than solo viewing. \"Why do you think the rabbit's sad?\" turns a cartoon into a conversation. Co-viewing also means you spot anything unsuitable. Parental controls help too, but they can't ask questions back.",
+      "quiz": null,
+      "source": {
+        "name": "Best Start in Life (UK government): Screen time for under 5s (guidance published March 2026)",
+        "url": "https://www.beststartinlife.gov.uk/screen-time-under-5s"
+      },
+      "tags": [
+        "screen time",
+        "co-viewing",
+        "talk"
+      ]
+    },
+    {
+      "id": "c05",
+      "topic": "Screen time",
+      "title": "Slow and simple beats fast and flashy",
+      "body": "Not all screen time is equal. The UK guidance recommends slow, predictable programmes with simple stories, fewer scene changes and characters who speak slowly, and avoiding fast-paced, social-media-style videos for young children. Think gentle storytelling rather than a frantic stream of clips. If you feel a bit frazzled watching it, they probably do too.",
+      "quiz": {
+        "q": "What kind of content does UK guidance recommend for young children?",
+        "options": [
+          "Fast-paced short videos",
+          "Anything with bright colours",
+          "Slow, predictable shows with simple stories"
+        ],
+        "answer": 2,
+        "explain": "The guidance favours slower, simpler content and advises avoiding fast-paced, social-media-style videos for young children."
+      },
+      "source": {
+        "name": "Best Start in Life (UK government): Screen time for under 5s (guidance published March 2026)",
+        "url": "https://www.beststartinlife.gov.uk/screen-time-under-5s"
+      },
+      "tags": [
+        "screen time",
+        "content",
+        "uk guidance"
+      ]
+    },
+    {
+      "id": "c06",
+      "topic": "AI and tech",
+      "title": "AI toys can wait",
+      "body": "Talking robots, smart speakers and AI chat apps are everywhere. The UK's 2026 guidance says young children shouldn't use AI toys, tools or chatbots until there's more evidence about their effects. That isn't panic, just caution while the research catches up. In the meantime, the best \"smart toy\" is still a grown-up who chats back.",
+      "quiz": {
+        "q": "What does the 2026 UK guidance say about AI toys and chatbots for young children?",
+        "options": [
+          "Avoid them until there's more evidence",
+          "Use them instead of reading together",
+          "They're proven to boost development"
+        ],
+        "answer": 0,
+        "explain": "The guidance advises keeping young children away from AI toys, tools and chatbots until their effects are better understood."
+      },
+      "source": {
+        "name": "Best Start in Life (UK government): Screen time for under 5s (guidance published March 2026)",
+        "url": "https://www.beststartinlife.gov.uk/screen-time-under-5s"
+      },
+      "tags": [
+        "ai",
+        "screen time",
+        "uk guidance"
+      ]
+    },
+    {
+      "id": "c07",
+      "topic": "Screen time",
+      "title": "Screen-free meals and bedtimes",
+      "body": "Two easy wins from the UK guidance: keep mealtimes and bedrooms screen-free, and avoid screens in the hour before bed. Swap in stories at bedtime. At the table, try conversation, music, colouring or a round of I Spy. Background TV during play or meals is worth switching off too. Bonus: you might actually find out what happened at nursery.",
+      "quiz": null,
+      "source": {
+        "name": "Best Start in Life (UK government): Screen time for under 5s (guidance published March 2026)",
+        "url": "https://www.beststartinlife.gov.uk/screen-time-under-5s"
+      },
+      "tags": [
+        "screen time",
+        "sleep",
+        "mealtimes"
+      ]
+    },
+    {
+      "id": "c08",
+      "topic": "Screen time",
+      "title": "Little ones copy our phones too",
+      "body": "The UK guidance gently notes that children copy the adults around them, and that long spells on your phone can make it harder to notice what your child needs. Nobody's saying never pick it up. But a phone-in-the-drawer half hour, or a \"no phones at the park\" rule, can make playtime feel like your full attention. They notice.",
+      "quiz": {
+        "q": "Why does UK guidance mention parents' own phone use?",
+        "options": [
+          "Phones are banned around children",
+          "Children copy adults, and long phone spells can mean missing their cues",
+          "It doesn't mention it"
+        ],
+        "answer": 1,
+        "explain": "The guidance points out children copy our habits, and being absorbed in a phone can make it harder to notice what they need."
+      },
+      "source": {
+        "name": "Best Start in Life (UK government): Screen time for under 5s (guidance published March 2026)",
+        "url": "https://www.beststartinlife.gov.uk/screen-time-under-5s"
+      },
+      "tags": [
+        "screen time",
+        "parents",
+        "attention"
+      ]
+    },
+    {
+      "id": "c09",
+      "topic": "Learning",
+      "title": "Little ones learn more from you than from video",
+      "body": "A 2021 meta-analysis pulled together 59 reports on children aged 0 to 6 and found they generally learned less from video than from a real person showing them the same thing. The gap shrank as children got older. The authors note the effect may be overestimated, but the direction is clear enough: in the early years, live people are the better teachers.",
+      "quiz": {
+        "q": "What did the 2021 meta-analysis find about young children learning from video?",
+        "options": [
+          "Video works better than people",
+          "There's no difference at any age",
+          "They usually learn less from video than from a person"
+        ],
+        "answer": 2,
+        "explain": "Children aged 0 to 6 generally learned less from video than face-to-face, though the gap shrank with age."
+      },
+      "source": {
+        "name": "Strouse and Samson (2021), Learning from video: a meta-analysis of the video deficit in children ages 0 to 6, Child Development",
+        "url": "https://red.library.usd.edu/se-fp/3"
+      },
+      "tags": [
+        "learning",
+        "screen time",
+        "evidence"
+      ]
+    },
+    {
+      "id": "c10",
+      "topic": "Babies",
+      "title": "Tummy time, little and often",
+      "body": "For babies who aren't yet crawling, the NHS recommends at least 30 minutes of tummy time spread through the day while they're awake. It doesn't have to be all at once. Lie them on a playmat, or on your chest, and get down to their level with a toy or a silly face. Some babies grumble at first. Short bursts build up.",
+      "quiz": {
+        "q": "How much tummy time does the NHS suggest for babies not yet crawling?",
+        "options": [
+          "At least 30 minutes a day, spread out",
+          "5 minutes a week",
+          "Only once they can sit up"
+        ],
+        "answer": 0,
+        "explain": "The NHS suggests at least 30 minutes a day, spread across awake time. Short, frequent bursts are fine."
+      },
+      "source": {
+        "name": "NHS: Physical activity guidelines for children (under 5 years)",
+        "url": "https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-children-under-five-years/"
+      },
+      "tags": [
+        "babies",
+        "movement",
+        "tummy time"
+      ]
+    },
+    {
+      "id": "c11",
+      "topic": "Movement",
+      "title": "Toddlers: three hours of wriggling",
+      "body": "The NHS says children aged 1 to 2 should be active for at least 180 minutes (3 hours) a day, spread throughout the day, including outdoor play. That sounds a lot until you realise it includes standing, rolling and pottering about, as well as running, climbing and chasing. More is better. Your sofa-loving adult self may be a little jealous.",
+      "quiz": null,
+      "source": {
+        "name": "NHS: Physical activity guidelines for children (under 5 years)",
+        "url": "https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-children-under-five-years/"
+      },
+      "tags": [
+        "toddlers",
+        "movement",
+        "outdoor play"
+      ]
+    },
+    {
+      "id": "c12",
+      "topic": "Movement",
+      "title": "Pre-schoolers: get them puffed out",
+      "body": "For 3 and 4-year-olds, the NHS recommends at least 180 minutes of activity a day, including at least 60 minutes of moderate-to-vigorous activity. That's the kind that leaves them a bit puffed: running, jumping, dancing, swimming, climbing, scooting, hide and seek. Playgrounds, parks and kitchen discos all count.",
+      "quiz": {
+        "q": "How much moderate-to-vigorous activity does the NHS suggest for 3 and 4-year-olds daily?",
+        "options": [
+          "10 minutes",
+          "At least 60 minutes",
+          "None, they're too young"
+        ],
+        "answer": 1,
+        "explain": "Pre-schoolers should get at least 180 minutes of activity a day, with at least 60 minutes of more energetic play."
+      },
+      "source": {
+        "name": "NHS: Physical activity guidelines for children (under 5 years)",
+        "url": "https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-children-under-five-years/"
+      },
+      "tags": [
+        "pre-schoolers",
+        "movement",
+        "outdoor play"
+      ]
+    },
+    {
+      "id": "c13",
+      "topic": "Movement",
+      "title": "Out of the buggy, onto the grass",
+      "body": "The NHS advises that under 5s shouldn't be inactive for long periods, except when asleep, and says long stretches in front of the TV, in a car seat or strapped into a buggy aren't good for development. On your next trip out, try letting them walk part of the way, or stop at a patch of grass for a proper run around.",
+      "quiz": null,
+      "source": {
+        "name": "NHS: Physical activity guidelines for children (under 5 years)",
+        "url": "https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-children-under-five-years/"
+      },
+      "tags": [
+        "outdoor play",
+        "movement",
+        "touching grass"
+      ]
+    },
+    {
+      "id": "c14",
+      "topic": "Risky play",
+      "title": "A bit of risk is good for them",
+      "body": "Climbing a tree, balancing on a wall, rolling down a hill. A 2015 systematic review found risky outdoor play was linked overall with positive effects, especially more physical activity, plus benefits for social behaviour. The authors said better-quality studies are needed. Risky doesn't mean dangerous: you're there, the hazards are sensible, and the scraped knee is part of learning.",
+      "quiz": {
+        "q": "What did the 2015 review find about risky outdoor play?",
+        "options": [
+          "Overall positive effects, especially on physical activity",
+          "It should be banned",
+          "It has no effect at all"
+        ],
+        "answer": 0,
+        "explain": "The review found mainly positive effects, most often more physical activity, while calling for more high-quality studies."
+      },
+      "source": {
+        "name": "Brussoni et al. (2015), What is the relationship between risky outdoor play and health in children? A systematic review",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26062038/"
+      },
+      "tags": [
+        "risky play",
+        "outdoor play",
+        "evidence"
+      ]
+    },
+    {
+      "id": "c15",
+      "topic": "Nature",
+      "title": "Green time: promising, not magic",
+      "body": "You'll see big claims about nature and children's brains. A 2022 systematic review of 34 studies found that nearly all showed positive links between green space and things like attention, wellbeing and behaviour. But most studies were observational with a high risk of bias, so they can't prove nature caused the benefits. Fair summary: very likely good, worth doing, no miracles promised.",
+      "quiz": {
+        "q": "Why can't the review say for sure that green space causes better attention?",
+        "options": [
+          "There were no studies",
+          "All the studies found harm",
+          "Most studies were observational with a high risk of bias"
+        ],
+        "answer": 2,
+        "explain": "Observational studies show links, not cause and effect. The findings are encouraging but researchers want stronger, longer-term studies."
+      },
+      "source": {
+        "name": "Navigation Guide systematic review (2022): Does exposure to greenness improve children's neuropsychological development and mental health?, Environmental Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34932982/"
+      },
+      "tags": [
+        "nature",
+        "attention",
+        "evidence"
+      ]
+    },
+    {
+      "id": "c16",
+      "topic": "Outdoors",
+      "title": "Outdoor time and eyesight",
+      "body": "Here's a less-known reason to get outside: the NHS says spending more time outdoors can help stop short-sightedness getting worse, especially in children. It's not a cure, and regular eye tests still matter. But it's one more nudge to swap an indoor afternoon for the park.",
+      "quiz": null,
+      "source": {
+        "name": "NHS: Short-sightedness (myopia)",
+        "url": "https://www.nhs.uk/conditions/short-sightedness/"
+      },
+      "tags": [
+        "outdoors",
+        "eyesight",
+        "nhs"
+      ]
+    },
+    {
+      "id": "c17",
+      "topic": "Talking",
+      "title": "Chatting with a tiny baby",
+      "body": "Babies love your face. NHS Best Start in Life suggests getting close so they can watch your mouth, singing songs with sing-song voices and actions, and playing copying games like sticking your tongue out. When your baby makes a sound, respond. That back-and-forth is the very first version of a conversation, long before any words appear.",
+      "quiz": {
+        "q": "What's a simple language game NHS Best Start in Life suggests for young babies?",
+        "options": [
+          "Leaving the radio on all day",
+          "Copying faces, like sticking your tongue out",
+          "Showing them word flashcards"
+        ],
+        "answer": 1,
+        "explain": "Copying faces and sounds, face to face, encourages imitation and early turn-taking, the building blocks of talking."
+      },
+      "source": {
+        "name": "NHS Best Start in Life: First sounds, 0 to 6 months",
+        "url": "https://www.nhs.uk/best-start-in-life/baby/learning-to-talk/first-sounds-0-to-6-months/"
+      },
+      "tags": [
+        "talking",
+        "babies",
+        "language"
+      ]
+    },
+    {
+      "id": "c18",
+      "topic": "Talking",
+      "title": "Toddlers: follow their finger",
+      "body": "When your toddler points at something or turns towards a sound, look where they're looking and talk about it. NHS Best Start in Life also suggests naming everyday things, offering choices (\"apple or banana?\"), describing what you're doing during routines and sharing picture books. Speak whichever language(s) you use at home. It all helps.",
+      "quiz": null,
+      "source": {
+        "name": "NHS Best Start in Life: First words and little sentences, 1 to 2 years",
+        "url": "https://www.nhs.uk/best-start-in-life/toddler/learning-to-talk/first-words-and-little-sentences-1-to-2-years/"
+      },
+      "tags": [
+        "talking",
+        "toddlers",
+        "language"
+      ]
+    },
+    {
+      "id": "c19",
+      "topic": "Sleep",
+      "title": "How much sleep do little ones need?",
+      "body": "NHS Best Start in Life gives rough guides: after their first birthday, many children sleep around 12 to 15 hours in total; 2-year-olds about 12 to 14 hours including naps; and 3 to 5-year-olds about 12 hours. Every child is different, so treat these as ballparks. A screen-free hour before bed and a calm routine help.",
+      "quiz": {
+        "q": "Roughly how much sleep do 3 to 5-year-olds need, according to NHS Best Start in Life?",
+        "options": [
+          "About 6 hours",
+          "About 12 hours",
+          "About 18 hours"
+        ],
+        "answer": 1,
+        "explain": "NHS Best Start in Life says children aged 3 to 5 need about 12 hours, and some still nap. Every child differs a bit."
+      },
+      "source": {
+        "name": "NHS Best Start in Life: Your baby's sleep patterns",
+        "url": "https://www.nhs.uk/best-start-in-life/baby/baby-basics/newborn-and-baby-sleeping-advice-for-parents/your-babys-sleep-patterns/"
+      },
+      "tags": [
+        "sleep",
+        "routine",
+        "under 5s"
+      ]
+    },
+    {
+      "id": "c20",
+      "topic": "Boredom",
+      "title": "\"I'm bored\" isn't an emergency",
+      "body": "Boredom can be the starting gun for imagination. Psychologist Sandi Mann, whose adult studies found people came up with more creative ideas after a dull task, says she's glad when her own children complain of boredom, because learning to amuse yourself is a skill. The research was with adults, so it's a hint rather than proof. Try a box of odds and ends instead of a screen.",
+      "quiz": {
+        "q": "In Mann's studies, what happened after people did a boring task?",
+        "options": [
+          "They produced more creative ideas",
+          "They gave up on every task",
+          "Nothing changed"
+        ],
+        "answer": 0,
+        "explain": "People who'd done a dull task came up with more creative ideas afterwards. The studies were in adults, so treat it as a hint for kids."
+      },
+      "source": {
+        "name": "The Psychologist (British Psychological Society): The exciting side of boredom (2015)",
+        "url": "https://bps.org.uk/psychologist/exciting-side-boredom"
+      },
+      "tags": [
+        "boredom",
+        "creativity",
+        "unstructured play"
+      ]
+    },
+    {
+      "id": "c21",
+      "topic": "Sensory play",
+      "title": "Splash, pour, repeat",
+      "body": "Water play is a classic sensory activity from birth. The NHS suggests letting little ones pour and splash with plastic bottles, sponges and spoons in the bath or a washing-up bowl. Expect wet floors and big grins. One firm rule: always stay with them, because babies and young children can drown in very little water.",
+      "quiz": {
+        "q": "What's the key safety rule for water play with little ones?",
+        "options": [
+          "Only use cold water",
+          "Never leave them unsupervised",
+          "Fill the bath right up"
+        ],
+        "answer": 1,
+        "explain": "The NHS warns babies and young children can drown in very small amounts of water, so always supervise closely."
+      },
+      "source": {
+        "name": "NHS: Baby and toddler play ideas",
+        "url": "https://www.nhs.uk/conditions/baby/babys-development/play-and-learning/baby-and-toddler-play-ideas/"
+      },
+      "tags": [
+        "sensory play",
+        "water play",
+        "safety"
+      ]
+    },
+    {
+      "id": "c22",
+      "topic": "Messy play",
+      "title": "Junk modelling: free and brilliant",
+      "body": "From around 30 months, the NHS suggests junk modelling: cardboard boxes, yoghurt pots and bottle tops, plus child-safe glue. A cereal box becomes a rocket, a castle or a very lopsided dog. It uses hands, imagination and problem-solving, and costs nothing but your recycling. Earlier, from about 18 months, crayons and paint on cereal-box card work well.",
+      "quiz": null,
+      "source": {
+        "name": "NHS: Baby and toddler play ideas",
+        "url": "https://www.nhs.uk/conditions/baby/babys-development/play-and-learning/baby-and-toddler-play-ideas/"
+      },
+      "tags": [
+        "messy play",
+        "creativity",
+        "toddlers"
+      ]
+    },
+    {
+      "id": "c23",
+      "topic": "Pretend play",
+      "title": "The dressing-up box",
+      "body": "Old hats, scarves and bits of fabric make a perfect dressing-up box, and the NHS suggests it from about 2 years. Remove anything with long cords or loose ribbons for safety. Pretend play lets children try out being a doctor, a dragon or a very strict shopkeeper, and you'll get some brilliant conversations out of it.",
+      "quiz": null,
+      "source": {
+        "name": "NHS: Baby and toddler play ideas",
+        "url": "https://www.nhs.uk/conditions/baby/babys-development/play-and-learning/baby-and-toddler-play-ideas/"
+      },
+      "tags": [
+        "pretend play",
+        "imagination",
+        "toddlers"
+      ]
+    },
+    {
+      "id": "c24",
+      "topic": "Talking",
+      "title": "Shops, rockets and I Spy",
+      "body": "For 3 to 5-year-olds, NHS Best Start in Life suggests games like I Spy and role play: playing shops and taking turns as shopkeeper and customer, or building a rocket out of cushions and blasting off. Making up stories about a favourite toy, and letting your child lead, builds vocabulary and imagination at the same time.",
+      "quiz": {
+        "q": "Which game does NHS Best Start in Life suggest for building listening and vocabulary at 3 to 5?",
+        "options": [
+          "I Spy",
+          "Silent reading only",
+          "Watching adverts"
+        ],
+        "answer": 0,
+        "explain": "I Spy and role play games encourage listening, new words and turn-taking in a fun, low-pressure way."
+      },
+      "source": {
+        "name": "NHS Best Start in Life: Learning conversations and telling stories, 3 to 5 years",
+        "url": "https://www.nhs.uk/best-start-in-life/toddler/learning-to-talk/learning-conversations-and-telling-stories-3-to-5-years/"
+      },
+      "tags": [
+        "talking",
+        "role play",
+        "pre-schoolers"
+      ]
+    },
+    {
+      "id": "c25",
+      "topic": "Reading",
+      "title": "Stories with sound effects",
+      "body": "Reading together gets even better with drama. NHS Best Start in Life suggests adding sounds like rain or birdsong, acting out bits of the story, letting your child fill in words in a favourite book, and asking \"what do you think happens next?\" before you turn the page. Open questions with lots of possible answers get them talking most.",
+      "quiz": null,
+      "source": {
+        "name": "NHS Best Start in Life: Learning conversations and telling stories, 3 to 5 years",
+        "url": "https://www.nhs.uk/best-start-in-life/toddler/learning-to-talk/learning-conversations-and-telling-stories-3-to-5-years/"
+      },
+      "tags": [
+        "reading",
+        "stories",
+        "language"
+      ]
+    },
+    {
+      "id": "c26",
+      "topic": "Reading",
+      "title": "Books from day one",
+      "body": "It's never too early for books. The NHS suggests sharing picture books and rhymes from birth, even for a few minutes a day, and points out that many libraries run free story sessions. A free Bookstart Baby pack is usually given in the first year. Chewed corners are a sign of enthusiasm.",
+      "quiz": {
+        "q": "When does the NHS suggest you can start sharing books with your baby?",
+        "options": [
+          "From age 3",
+          "Once they can talk",
+          "From birth"
+        ],
+        "answer": 2,
+        "explain": "Sharing picture books and rhymes from birth, even briefly, supports bonding and early language."
+      },
+      "source": {
+        "name": "NHS: Baby and toddler play ideas",
+        "url": "https://www.nhs.uk/conditions/baby/babys-development/play-and-learning/baby-and-toddler-play-ideas/"
+      },
+      "tags": [
+        "reading",
+        "babies",
+        "bonding"
+      ]
+    },
+    {
+      "id": "c27",
+      "topic": "Screen time",
+      "title": "What the WHO says",
+      "body": "The World Health Organization's 2019 guidelines for under 5s say screen time isn't recommended for babies or 1-year-olds, and should be no more than 1 hour a day for 2 to 4-year-olds, with less being better. They also advise not keeping little ones restrained, for example in a pram or buggy, for more than an hour at a time. Same direction as UK advice.",
+      "quiz": null,
+      "source": {
+        "name": "World Health Organization (2019): To grow up healthy, children need to sit less and play more",
+        "url": "https://www.who.int/news/item/24-04-2019-to-grow-up-healthy-children-need-to-sit-less-and-play-more"
+      },
+      "tags": [
+        "screen time",
+        "who",
+        "guidelines"
+      ]
+    },
+    {
+      "id": "c28",
+      "topic": "Movement",
+      "title": "School-age kids: an hour a day",
+      "body": "Once children reach 5, the NHS guidance is an average of at least 60 minutes of moderate or vigorous activity a day across the week, plus activities that strengthen muscles and bones, like jumping, climbing or gymnastics. Walking to school, playground games, football, dancing and cycling all count. A quick test: moderate means they can talk but not sing.",
+      "quiz": {
+        "q": "How much activity does the NHS recommend for 5 to 18-year-olds?",
+        "options": [
+          "An average of at least 60 minutes a day",
+          "20 minutes a week",
+          "Only PE lessons"
+        ],
+        "answer": 0,
+        "explain": "Children and young people should average at least 60 minutes a day of moderate or vigorous activity across the week."
+      },
+      "source": {
+        "name": "NHS: Physical activity guidelines for children and young people",
+        "url": "https://www.nhs.uk/live-well/exercise/exercise-guidelines/physical-activity-guidelines-children-and-young-people/"
+      },
+      "tags": [
+        "movement",
+        "school age",
+        "nhs"
+      ]
+    },
+    {
+      "id": "c29",
+      "topic": "Routines",
+      "title": "Sing the boring bits",
+      "body": "The NSPCC suggests making up little songs for everyday moments: washing hands, leaving the room, finishing dinner. Sung the same way each time, they add comfort to routines and help children link words with what's happening. You don't need to be a good singer. Toddlers are a famously forgiving audience.",
+      "quiz": null,
+      "source": {
+        "name": "NSPCC: Look, Say, Sing, Play",
+        "url": "https://www.nspcc.org.uk/advice-for-families/look-say-sing-play/"
+      },
+      "tags": [
+        "routines",
+        "singing",
+        "language"
+      ]
+    },
+    {
+      "id": "c30",
+      "topic": "Screen time",
+      "title": "Screen swaps that actually work",
+      "body": "Pulling the plug is easier with something ready to replace it. The UK guidance suggests swaps like reading together, simple games and back-and-forth chat, and at mealtimes, music, table games, colouring or I Spy. Keep a \"boredom basket\" by the door: chalk, a ball, a magnifying glass, a bag for collecting leaves. Then head outside and touch some grass.",
+      "quiz": null,
+      "source": {
+        "name": "Best Start in Life (UK government): Screen time for under 5s (guidance published March 2026)",
+        "url": "https://www.beststartinlife.gov.uk/screen-time-under-5s"
+      },
+      "tags": [
+        "screen time",
+        "play ideas",
+        "outdoor play"
+      ]
+    }
+  ]
+}

@@ -17,6 +17,7 @@ export default function TabsLayout() {
       <Tabs.Screen name="index" options={{ title: 'Find', tabBarIcon: ({ color, size }) => <Ionicons name="dice-outline" color={color as string} size={size} /> }} />
       <Tabs.Screen name="plan" options={{ title: 'Week', tabBarIcon: ({ color, size }) => <Ionicons name="calendar-outline" color={color as string} size={size} /> }} />
       <Tabs.Screen name="saved" options={{ title: 'Saved', tabBarIcon: ({ color, size }) => <Ionicons name="star-outline" color={color as string} size={size} /> }} />
+      <Tabs.Screen name="why-play" options={{ title: 'Why play', tabBarIcon: ({ color, size }) => <Ionicons name="leaf-outline" color={color as string} size={size} /> }} />
       <Tabs.Screen name="settings" options={{ title: 'Settings', tabBarIcon: ({ color, size }) => <Ionicons name="settings-outline" color={color as string} size={size} /> }} />
     </Tabs>
   );

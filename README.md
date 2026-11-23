@@ -63,7 +63,7 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 
 - Pick an activity: a giant dice rolls across the screen
 - Done today: a sticker slaps onto the chart
-- Rainy-day mode: a stickman family in raincoats jumps in puddles
+- Rainy-day mode: The Kaos family in raincoats jumps in puddles
 - Week planned: a cardboard rocket launches
 - Seasonal pack: pumpkins or snowmen roll in
 
