@@ -39,7 +39,7 @@ Parents and carers of children aged 3–12.
 | Model | Detail |
 |---|---|
 | Free | Starter library, with non-personalised ads (the app is for parents) |
-| Premium | £3.99/month or annual: full library, printables, offline packs |
+| Premium | £24.99/year (shown first) or £3.49/month: full library, printables, offline packs |
 
 **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
 
