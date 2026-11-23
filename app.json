@@ -1,0 +1,61 @@
+{
+  "expo": {
+    "name": "KidQuest",
+    "slug": "kidquest",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "kidquest",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "bundleIdentifier": "com.kaoticchainz.kidquest",
+      "supportsTablet": true,
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "package": "com.kaoticchainz.kidquest",
+      "adaptiveIcon": {
+        "backgroundColor": "#1D4ED8",
+        "foregroundImage": "./assets/images/android-icon-foreground.png",
+        "backgroundImage": "./assets/images/android-icon-background.png",
+        "monochromeImage": "./assets/images/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "output": "single",
+      "favicon": "./assets/images/favicon.png",
+      "name": "KidQuest",
+      "themeColor": "#1D4ED8",
+      "backgroundColor": "#FFFBEB"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-sqlite",
+      "expo-font",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#FFFBEB",
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 120,
+          "dark": {
+            "backgroundColor": "#0E1310"
+          }
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "color": "#1D4ED8"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": false,
+      "reactCompiler": true
+    }
+  }
+}
