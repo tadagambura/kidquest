@@ -39,10 +39,6 @@ export const brand: Brand = {
     danger: '#FF8A80',
     focus: '#93B4FF',
   },
-  plans: [
-    { id: 'yearly', label: 'Yearly', price: '£24.99 a year', note: 'Best value: about £2.08 a month' },
-    { id: 'monthly', label: 'Monthly', price: '£3.49 a month' },
-  ],
   premiumPerks: ['The full library (twice the ideas)', 'New seasonal packs as they launch', 'Printables as they launch', 'No ads, ever'],
   privacyUrl: 'https://kaoticchainz.com/privacy',
   termsUrl: 'https://kaoticchainz.com/terms',
