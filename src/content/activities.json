@@ -1,0 +1,2427 @@
+{
+  "version": 1,
+  "reviewed": false,
+  "activities": [
+    {
+      "id": "a001",
+      "title": "Posting Box",
+      "summary": "Turn a shoebox into a letterbox and post cards through the slot.",
+      "ageMin": 2,
+      "ageMax": 4,
+      "place": "indoor",
+      "minutes": 15,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "Shoebox with a lid",
+        "Old playing cards or greetings cards"
+      ],
+      "steps": [
+        "Cut a letterbox-sized slot in the shoebox lid.",
+        "Put the lid back on and hand over a pile of cards.",
+        "Show your child how to post a card through the slot.",
+        "Open the box together and count the cards once they're all in.",
+        "Cut a second, narrower slot to make it trickier."
+      ],
+      "safety": "An adult should cut the slot. Stay close so cards don't end up being chewed.",
+      "tags": [
+        "sensory",
+        "quiet-time",
+        "maths"
+      ],
+      "free": true
+    },
+    {
+      "id": "a002",
+      "title": "Pots and Pans Band",
+      "summary": "Raid the kitchen cupboards for a noisy, joyful marching band.",
+      "ageMin": 2,
+      "ageMax": 4,
+      "place": "indoor",
+      "minutes": 15,
+      "energy": "high",
+      "cost": "free",
+      "materials": [
+        "Saucepans and lids",
+        "Wooden spoons",
+        "Plastic tubs"
+      ],
+      "steps": [
+        "Set out a few pans and tubs upside down on the floor.",
+        "Hand out wooden spoons as drumsticks.",
+        "Play loud, then quiet, then fast, then slow, and copy each other.",
+        "March round the room playing along to a favourite song.",
+        "Finish with one big crash and a bow."
+      ],
+      "safety": "Use clean, cool pans and leave glass lids out of the band.",
+      "tags": [
+        "music",
+        "active",
+        "rainy-day"
+      ],
+      "free": true
+    },
+    {
+      "id": "a003",
+      "title": "Sock Matching Game",
+      "summary": "Make laundry a game by hunting for pairs in a pile of clean socks.",
+      "ageMin": 2,
+      "ageMax": 4,
+      "place": "indoor",
+      "minutes": 10,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "A basket of clean, unpaired socks"
+      ],
+      "steps": [
+        "Tip a basket of clean socks onto the floor.",
+        "Pick up one sock and ask your child to find its partner.",
+        "Talk about colours, stripes and spots as you go.",
+        "Line the pairs up and count them together.",
+        "Roll up each pair and toss it into the basket."
+      ],
+      "safety": null,
+      "tags": [
+        "maths",
+        "sensory",
+        "quiet-time"
+      ],
+      "free": false
+    },
+    {
+      "id": "a004",
+      "title": "Colour Hunt Walk",
+      "summary": "Pick a colour and see how many things you can spot on a walk.",
+      "ageMin": 2,
+      "ageMax": 5,
+      "place": "outdoor",
+      "minutes": 20,
+      "energy": "medium",
+      "cost": "free",
+      "materials": [
+        "A paper bag for collecting (optional)"
+      ],
+      "steps": [
+        "Choose a colour together before you set off.",
+        "Walk round the garden or to the park looking for that colour.",
+        "Point to and name each thing you find, like a red door or a green leaf.",
+        "Collect a few fallen bits, such as leaves or petals, in a bag.",
+        "Switch to a new colour on the way home."
+      ],
+      "safety": "Hold hands near roads. Don't pick berries or mushrooms, and wash hands after collecting.",
+      "tags": [
+        "nature",
+        "sensory"
+      ],
+      "free": true
+    },
+    {
+      "id": "a005",
+      "title": "Water Painting",
+      "summary": "Paint walls, fences and paving with plain water and watch it vanish.",
+      "ageMin": 2,
+      "ageMax": 5,
+      "place": "outdoor",
+      "minutes": 20,
+      "energy": "medium",
+      "cost": "free",
+      "materials": [
+        "Small bucket or tub of water",
+        "Old paintbrushes or a sponge"
+      ],
+      "steps": [
+        "Fill a small bucket with water.",
+        "Hand over a brush and point to a wall, fence or paving slab.",
+        "Paint shapes, lines and pictures with the water.",
+        "Watch together as the sun dries the marks away.",
+        "Paint it all again before it disappears."
+      ],
+      "safety": "Stay with young children whenever there's water about, even a small bucket. Use sun cream, hats and shade on hot days.",
+      "tags": [
+        "summer",
+        "creative",
+        "sensory",
+        "science"
+      ],
+      "free": true
+    },
+    {
+      "id": "a006",
+      "title": "Animal Walk Races",
+      "summary": "Waddle, hop and stomp across the room like your favourite animals.",
+      "ageMin": 2,
+      "ageMax": 5,
+      "place": "either",
+      "minutes": 10,
+      "energy": "high",
+      "cost": "free",
+      "materials": [],
+      "steps": [
+        "Mark a start and a finish line with cushions or shoes.",
+        "Call out an animal, such as a frog, a penguin or an elephant.",
+        "Race to the finish moving just like that animal.",
+        "Let your child choose the next animal and its sound.",
+        "Finish with a slow sloth race to calm down."
+      ],
+      "safety": "Clear away toys and anything with sharp corners first.",
+      "tags": [
+        "active",
+        "games",
+        "rainy-day"
+      ],
+      "free": true
+    },
+    {
+      "id": "a007",
+      "title": "Teddy Bears' Picnic",
+      "summary": "Pack a pretend picnic for soft toys, indoors or out.",
+      "ageMin": 2,
+      "ageMax": 5,
+      "place": "either",
+      "minutes": 30,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "Blanket",
+        "Soft toys",
+        "Plastic plates and cups",
+        "A simple snack (optional)"
+      ],
+      "steps": [
+        "Choose which toys are invited and say their names on a guest list.",
+        "Pack a bag with plates, cups and a snack.",
+        "Spread the blanket in the garden, the park or the living room.",
+        "Serve each toy and chat about what they like to eat.",
+        "Tidy up together and tuck the toys in for a nap."
+      ],
+      "safety": "Cut snacks small for young children, and quarter grapes and cherry tomatoes lengthways, as whole ones are a choking hazard.",
+      "tags": [
+        "pretend-play",
+        "quiet-time"
+      ],
+      "free": false
+    },
+    {
+      "id": "a008",
+      "title": "Cushion Obstacle Course",
+      "summary": "Build a squishy course of cushions to climb, crawl and balance on.",
+      "ageMin": 2,
+      "ageMax": 5,
+      "place": "indoor",
+      "minutes": 20,
+      "energy": "high",
+      "cost": "free",
+      "materials": [
+        "Sofa cushions and pillows",
+        "Blanket",
+        "A sturdy table to crawl under"
+      ],
+      "steps": [
+        "Clear a space on the floor and move anything breakable.",
+        "Lay cushions in a line to make stepping stones.",
+        "Drape a blanket over a table to make a tunnel.",
+        "Show your child the route, then cheer them round it.",
+        "Change the order of the obstacles to keep it fresh."
+      ],
+      "safety": "Keep the course on the floor, away from stairs and hard edges, and stay close while little ones climb.",
+      "tags": [
+        "active",
+        "rainy-day",
+        "building"
+      ],
+      "free": true
+    },
+    {
+      "id": "a009",
+      "title": "Toy Car Wash",
+      "summary": "Set up a bubbly wash station for plastic toys and cars.",
+      "ageMin": 2,
+      "ageMax": 4,
+      "place": "outdoor",
+      "minutes": 20,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "Washing-up bowl",
+        "A squirt of washing-up liquid",
+        "Sponges and old toothbrushes",
+        "Plastic toys",
+        "Towel"
+      ],
+      "steps": [
+        "Fill a bowl with a little warm water and a squirt of washing-up liquid.",
+        "Line up the dirty toys in a queue for the car wash.",
+        "Scrub each toy with a sponge or toothbrush.",
+        "Rinse them and lay them on the towel to dry.",
+        "Count how many sparkling toys you have at the end."
+      ],
+      "safety": "Never leave a young child alone with water, even a shallow bowl. Keep the washing-up liquid bottle out of reach.",
+      "tags": [
+        "summer",
+        "sensory",
+        "pretend-play"
+      ],
+      "free": false
+    },
+    {
+      "id": "a010",
+      "title": "Nature Bracelet",
+      "summary": "Wear a sticky bracelet on a walk and decorate it with nature finds.",
+      "ageMin": 2,
+      "ageMax": 5,
+      "place": "outdoor",
+      "minutes": 20,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "Masking tape"
+      ],
+      "steps": [
+        "Wrap a loose loop of masking tape round your child's wrist, sticky side out.",
+        "Head into the garden or the park.",
+        "Look for fallen leaves, petals, grass and seeds.",
+        "Press each find onto the tape to build up the bracelet.",
+        "Talk about the colours and textures when you get home."
+      ],
+      "safety": "Keep the tape loose. Collect only fallen things, leave berries and mushrooms alone, and wash hands afterwards.",
+      "tags": [
+        "nature",
+        "creative",
+        "sensory"
+      ],
+      "free": true
+    },
+    {
+      "id": "a011",
+      "title": "Puddle Jumping",
+      "summary": "Pull on wellies and find the best splashes after a rain shower.",
+      "ageMin": 2,
+      "ageMax": 6,
+      "place": "outdoor",
+      "minutes": 20,
+      "energy": "high",
+      "cost": "free",
+      "materials": [
+        "Wellies and waterproofs",
+        "A stick for testing puddles"
+      ],
+      "steps": [
+        "Wrap up in waterproofs and wellies.",
+        "Head out after a shower and look for puddles.",
+        "Poke each puddle with a stick to check it's shallow.",
+        "Jump in and compare which puddle makes the biggest splash.",
+        "Come home, hang everything up and warm up with a drink."
+      ],
+      "safety": "Check puddles are shallow before jumping, and stay well away from roads, ditches and fast-flowing water.",
+      "tags": [
+        "rainy-day",
+        "active",
+        "nature"
+      ],
+      "free": true
+    },
+    {
+      "id": "a012",
+      "title": "Homemade Playdough",
+      "summary": "Mix soft, squishy playdough from store-cupboard ingredients.",
+      "ageMin": 2,
+      "ageMax": 5,
+      "place": "indoor",
+      "minutes": 30,
+      "energy": "calm",
+      "cost": "low",
+      "materials": [
+        "2 cups plain flour",
+        "Half a cup of salt",
+        "1 cup warm water",
+        "2 tablespoons vegetable oil",
+        "Food colouring (optional)"
+      ],
+      "steps": [
+        "Mix the flour and salt in a large bowl.",
+        "Add a few drops of food colouring to the warm water.",
+        "Pour in the water and oil a little at a time, stirring as you go.",
+        "Knead on a floured surface until smooth, adding flour if it's sticky.",
+        "Roll, squash and cut shapes with cutters or a blunt knife.",
+        "Store it in a sealed bag or tub for next time."
+      ],
+      "safety": "Homemade playdough is very salty. Don't let children eat it, and keep it away from pets, especially dogs.",
+      "tags": [
+        "sensory",
+        "creative",
+        "messy",
+        "rainy-day"
+      ],
+      "free": false
+    },
+    {
+      "id": "a013",
+      "title": "Bubble Wrap Prints",
+      "summary": "Paint bubble wrap and press paper on top for bumpy, bubbly prints.",
+      "ageMin": 2,
+      "ageMax": 5,
+      "place": "indoor",
+      "minutes": 20,
+      "energy": "medium",
+      "cost": "low",
+      "materials": [
+        "Bubble wrap",
+        "Child-safe paint",
+        "Paper",
+        "Paintbrush or sponge",
+        "Sticky tape",
+        "Apron or old clothes"
+      ],
+      "steps": [
+        "Cover the table and put on an apron.",
+        "Tape a square of bubble wrap to the table, bubbles facing up.",
+        "Brush paint over the bubbles in one or more colours.",
+        "Press paper on top, rub gently and peel it off.",
+        "Make a few prints and hang them up to dry."
+      ],
+      "safety": "Supervise closely and put the bubble wrap away afterwards, as plastic sheets can be a suffocation risk for small children.",
+      "tags": [
+        "creative",
+        "messy",
+        "sensory"
+      ],
+      "free": false
+    },
+    {
+      "id": "a014",
+      "title": "Mud Kitchen",
+      "summary": "Cook up mud pies and leaf soup with old pots in the garden.",
+      "ageMin": 2,
+      "ageMax": 6,
+      "place": "outdoor",
+      "minutes": 45,
+      "energy": "medium",
+      "cost": "free",
+      "materials": [
+        "Old pots, pans and spoons",
+        "Soil",
+        "Jug of water",
+        "Leaves, grass and petals"
+      ],
+      "steps": [
+        "Pick a patch of garden where mess is welcome.",
+        "Set out old pots, spoons and a jug of water.",
+        "Mix soil and water to make mud batter.",
+        "Decorate pies and cakes with leaves and petals.",
+        "Open your café and serve pretend dishes to the family.",
+        "Hose everything down and scrub hands well."
+      ],
+      "safety": "Check the soil is free from animal mess and sharp objects, supervise the water and make sure nothing gets eaten. Wash hands thoroughly afterwards.",
+      "tags": [
+        "messy",
+        "nature",
+        "pretend-play",
+        "sensory"
+      ],
+      "free": false
+    },
+    {
+      "id": "a015",
+      "title": "Shape Hunt",
+      "summary": "Search the house for circles, squares, triangles and rectangles.",
+      "ageMin": 3,
+      "ageMax": 5,
+      "place": "indoor",
+      "minutes": 15,
+      "energy": "medium",
+      "cost": "free",
+      "materials": [
+        "Paper and a pencil"
+      ],
+      "steps": [
+        "Draw a circle, a square, a triangle and a rectangle on a piece of paper.",
+        "Choose one shape to hunt for first.",
+        "Walk round the house pointing to everything that matches, like a clock or a window.",
+        "Make a tick next to the shape each time you find one.",
+        "See which shape wins by being found the most."
+      ],
+      "safety": null,
+      "tags": [
+        "maths",
+        "games",
+        "rainy-day"
+      ],
+      "free": true
+    },
+    {
+      "id": "a016",
+      "title": "Car Ramp Races",
+      "summary": "Prop up a board and race toy cars to see which goes furthest.",
+      "ageMin": 3,
+      "ageMax": 6,
+      "place": "indoor",
+      "minutes": 20,
+      "energy": "medium",
+      "cost": "free",
+      "materials": [
+        "Toy cars",
+        "A large tray, board or piece of cardboard",
+        "A few books"
+      ],
+      "steps": [
+        "Lean the board on a stack of books to make a ramp.",
+        "Let two cars go from the top at the same time.",
+        "Mark where each one stops with a sock or a scrap of paper.",
+        "Add another book to make the ramp steeper and race again.",
+        "Guess before each race which car will win, then check."
+      ],
+      "safety": "Keep tiny cars and loose parts away from babies and under-3s.",
+      "tags": [
+        "science",
+        "maths",
+        "rainy-day"
+      ],
+      "free": false
+    },
+    {
+      "id": "a017",
+      "title": "Ice Rescue",
+      "summary": "Free toys from a block of ice with warm water and spoons (freeze it the night before).",
+      "ageMin": 3,
+      "ageMax": 6,
+      "place": "either",
+      "minutes": 30,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "Plastic tub",
+        "Water",
+        "A few plastic toys",
+        "Spoons, cups and a jug of warm water",
+        "Tray"
+      ],
+      "steps": [
+        "The night before, put a few toys in a tub of water and freeze it.",
+        "Turn the ice block out onto a tray.",
+        "Explain that the toys are trapped and need rescuing.",
+        "Pour on warm water, drip it from spoons and chip away with blunt tools.",
+        "Cheer each toy as it's freed and talk about why the ice melts."
+      ],
+      "safety": "Use toys too big to fit in a mouth, use warm rather than hot water, and supervise all water play.",
+      "tags": [
+        "science",
+        "sensory",
+        "summer"
+      ],
+      "free": false
+    },
+    {
+      "id": "a018",
+      "title": "Cardboard Tube Binoculars",
+      "summary": "Make binoculars from two tubes, then go spotting birds and bugs.",
+      "ageMin": 3,
+      "ageMax": 6,
+      "place": "either",
+      "minutes": 20,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "Two toilet roll tubes",
+        "Sticky tape",
+        "Pens or crayons"
+      ],
+      "steps": [
+        "Tape two tubes together side by side.",
+        "Decorate them with pens or crayons.",
+        "Head to a window, the garden or the park.",
+        "Take turns spotting birds, bugs and planes and describing them.",
+        "Keep a tally of everything you see."
+      ],
+      "safety": null,
+      "tags": [
+        "creative",
+        "nature",
+        "pretend-play"
+      ],
+      "free": true
+    },
+    {
+      "id": "a019",
+      "title": "Animal Stretch Story",
+      "summary": "Tell a slow, calm story where everyone stretches like the animals in it.",
+      "ageMin": 3,
+      "ageMax": 7,
+      "place": "indoor",
+      "minutes": 15,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "A mat, rug or towel"
+      ],
+      "steps": [
+        "Sit on a mat in a quiet room.",
+        "Start a story about a walk through a forest.",
+        "Pause at each animal and copy its shape, like a tall giraffe or a curled-up hedgehog.",
+        "Hold each stretch for a few slow breaths.",
+        "End the story with everyone curled up asleep like dormice."
+      ],
+      "safety": "Keep stretches gentle and stop if anything hurts.",
+      "tags": [
+        "quiet-time",
+        "pretend-play"
+      ],
+      "free": false
+    },
+    {
+      "id": "a020",
+      "title": "Raindrop Races",
+      "summary": "Each pick a raindrop on the window and cheer it down to the bottom.",
+      "ageMin": 3,
+      "ageMax": 7,
+      "place": "indoor",
+      "minutes": 10,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [],
+      "steps": [
+        "Find a window with rain running down it.",
+        "Each choose a raindrop near the top and give it a name.",
+        "Cheer your drop on as it slides down the glass.",
+        "See whose drop reaches the bottom first.",
+        "Talk about why some drops race and others get stuck."
+      ],
+      "safety": null,
+      "tags": [
+        "rainy-day",
+        "quiet-time",
+        "science"
+      ],
+      "free": true
+    },
+    {
+      "id": "a021",
+      "title": "Leaf Pile Leap",
+      "summary": "Rake up a giant pile of autumn leaves and take a running jump.",
+      "ageMin": 2,
+      "ageMax": 7,
+      "place": "outdoor",
+      "minutes": 20,
+      "energy": "high",
+      "cost": "free",
+      "materials": [
+        "Rake (optional)",
+        "Wellies"
+      ],
+      "steps": [
+        "Find a spot in the garden or park with lots of fallen leaves.",
+        "Check the area for sticks, stones and dog mess.",
+        "Rake or scoop the leaves into a big pile.",
+        "Take turns jumping, rolling and throwing leaves in the air.",
+        "Rake it back up and build an even bigger pile."
+      ],
+      "safety": "Look through the leaves before anyone jumps, as they can hide sticks, stones and animal mess. Wash hands afterwards.",
+      "tags": [
+        "autumn",
+        "nature",
+        "active"
+      ],
+      "free": false
+    },
+    {
+      "id": "a022",
+      "title": "Sink or Float",
+      "summary": "Guess which household objects will float, then test them in a bowl.",
+      "ageMin": 3,
+      "ageMax": 6,
+      "place": "indoor",
+      "minutes": 20,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "Washing-up bowl of water",
+        "Towel",
+        "Objects to test, such as a spoon, cork, sponge, apple and toy"
+      ],
+      "steps": [
+        "Fill a bowl with water and stand it on a towel.",
+        "Collect six to eight objects from around the house.",
+        "Hold up each one and guess: sink or float?",
+        "Drop it in and see who was right.",
+        "Sort the objects into a sink pile and a float pile."
+      ],
+      "safety": "Supervise all water play. Skip very small objects if babies or toddlers are around, as they're a choking hazard.",
+      "tags": [
+        "science",
+        "sensory",
+        "rainy-day"
+      ],
+      "free": true
+    },
+    {
+      "id": "a023",
+      "title": "Sock Snowball Fight",
+      "summary": "Roll socks into snowballs for a giggly indoor snowball fight.",
+      "ageMin": 3,
+      "ageMax": 8,
+      "place": "indoor",
+      "minutes": 15,
+      "energy": "high",
+      "cost": "free",
+      "materials": [
+        "Lots of pairs of clean socks",
+        "Cushions"
+      ],
+      "steps": [
+        "Roll pairs of socks into tight balls.",
+        "Build a cushion fort on each side of the room.",
+        "Shout 'snow!' to start and throw sock snowballs at each other.",
+        "Stop on the whistle and gather up all the snowballs.",
+        "Play again, or see who can throw one into a basket."
+      ],
+      "safety": "Agree a no-throwing-at-faces rule and move anything breakable first.",
+      "tags": [
+        "winter",
+        "rainy-day",
+        "active",
+        "games"
+      ],
+      "free": true
+    },
+    {
+      "id": "a024",
+      "title": "Musical Statues",
+      "summary": "Dance like mad while the music plays, then freeze when it stops.",
+      "ageMin": 3,
+      "ageMax": 8,
+      "place": "indoor",
+      "minutes": 15,
+      "energy": "high",
+      "cost": "free",
+      "materials": [
+        "Music from a radio or speaker, or just sing"
+      ],
+      "steps": [
+        "Clear some space to dance.",
+        "Play a song and get everyone dancing.",
+        "Stop the music without warning and freeze.",
+        "Anyone who wobbles does a silly forfeit, like a chicken dance, then rejoins.",
+        "Let the children take turns being in charge of the music."
+      ],
+      "safety": null,
+      "tags": [
+        "music",
+        "active",
+        "games",
+        "rainy-day"
+      ],
+      "free": true
+    },
+    {
+      "id": "a025",
+      "title": "Cloud Spotting",
+      "summary": "Lie back and find animals, faces and dragons in the clouds.",
+      "ageMin": 3,
+      "ageMax": 8,
+      "place": "outdoor",
+      "minutes": 15,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "Blanket or coat to lie on"
+      ],
+      "steps": [
+        "Spread a blanket in the garden or park.",
+        "Lie back and look up at the sky.",
+        "Take turns describing the shapes you can see in the clouds.",
+        "Make up a story that links all the cloud shapes together.",
+        "Watch how the shapes change as the clouds drift."
+      ],
+      "safety": "Never look directly at the sun. Use sun cream on bright days.",
+      "tags": [
+        "nature",
+        "quiet-time",
+        "creative"
+      ],
+      "free": true
+    },
+    {
+      "id": "a026",
+      "title": "Pretend Café",
+      "summary": "Open a family café with a menu, prices in pence and a till.",
+      "ageMin": 4,
+      "ageMax": 7,
+      "place": "indoor",
+      "minutes": 45,
+      "energy": "medium",
+      "cost": "free",
+      "materials": [
+        "Paper and pens",
+        "Toy food or real snacks",
+        "Plates and cups",
+        "Coins or paper money"
+      ],
+      "steps": [
+        "Name your café and write a menu with simple prices, like 5p or 10p.",
+        "Lay a table with plates, cups and a tea towel.",
+        "Take turns being the waiter, the chef and the customer.",
+        "Pay with coins or paper money and work out the change.",
+        "Close up and count how much the café took."
+      ],
+      "safety": "Coins are a choking hazard, so keep them away from babies and toddlers.",
+      "tags": [
+        "maths",
+        "pretend-play",
+        "writing"
+      ],
+      "free": false
+    },
+    {
+      "id": "a027",
+      "title": "Number Hunt Walk",
+      "summary": "Spot door numbers, bus numbers and signs on a walk round the block.",
+      "ageMin": 4,
+      "ageMax": 7,
+      "place": "outdoor",
+      "minutes": 30,
+      "energy": "medium",
+      "cost": "free",
+      "materials": [],
+      "steps": [
+        "Pick a target number, such as 7.",
+        "Walk round your street or to the park looking for it on doors, signs and buses.",
+        "Shout it out every time you spot it.",
+        "Switch to finding numbers in order, from 1 to 20.",
+        "Back home, draw the best place you spotted a number."
+      ],
+      "safety": "Hold hands near roads and stop to look and listen at every crossing.",
+      "tags": [
+        "maths",
+        "active"
+      ],
+      "free": true
+    },
+    {
+      "id": "a028",
+      "title": "Chalk Hopscotch",
+      "summary": "Draw a hopscotch grid outside and hop your way through the numbers.",
+      "ageMin": 4,
+      "ageMax": 8,
+      "place": "outdoor",
+      "minutes": 30,
+      "energy": "high",
+      "cost": "low",
+      "materials": [
+        "Playground chalk",
+        "A small stone or beanbag"
+      ],
+      "steps": [
+        "Draw a grid of ten numbered squares on a patio or garden path.",
+        "Throw the stone onto square 1.",
+        "Hop through the grid, skipping the square with the stone in it.",
+        "Turn round, hop back and pick up the stone on the way.",
+        "Throw to the next number and keep going until someone reaches 10."
+      ],
+      "safety": "Play well away from roads and parked cars.",
+      "tags": [
+        "maths",
+        "active",
+        "games"
+      ],
+      "free": true
+    },
+    {
+      "id": "a029",
+      "title": "Minibeast Safari",
+      "summary": "Hunt for worms, woodlice and snails under logs and leaves.",
+      "ageMin": 4,
+      "ageMax": 8,
+      "place": "outdoor",
+      "minutes": 30,
+      "energy": "medium",
+      "cost": "free",
+      "materials": [
+        "Magnifying glass (optional)",
+        "Clear tub",
+        "Paper and pencil"
+      ],
+      "steps": [
+        "Head to a garden, park or woodland edge.",
+        "Gently lift logs, stones and leaves to see what's hiding.",
+        "Pop a minibeast in a tub for a closer look.",
+        "Count its legs and draw it.",
+        "Put every creature back exactly where you found it and replace the log."
+      ],
+      "safety": "Leave bees, wasps and anything that stings alone. Handle creatures gently and wash hands afterwards.",
+      "tags": [
+        "nature",
+        "science"
+      ],
+      "free": true
+    },
+    {
+      "id": "a030",
+      "title": "Story Stones",
+      "summary": "Paint pictures on pebbles, then pull them out at random to tell a story.",
+      "ageMin": 4,
+      "ageMax": 8,
+      "place": "either",
+      "minutes": 45,
+      "energy": "calm",
+      "cost": "low",
+      "materials": [
+        "Smooth pebbles",
+        "Acrylic paint or paint pens",
+        "Small brushes",
+        "A bag"
+      ],
+      "steps": [
+        "Collect six to ten smooth, flat pebbles and wash them.",
+        "Paint a simple picture on each, like a house, a cat, a key or a moon.",
+        "Leave them to dry completely.",
+        "Put them in a bag and pull one out to start a story.",
+        "Take turns pulling out a new stone and adding the next part."
+      ],
+      "safety": "Small stones are a choking hazard, so keep them away from babies and toddlers. Supervise with paint.",
+      "tags": [
+        "creative",
+        "reading",
+        "pretend-play"
+      ],
+      "free": false
+    },
+    {
+      "id": "a031",
+      "title": "Cardboard Box Rocket",
+      "summary": "Turn a big box into a rocket, car or boat for imaginary journeys.",
+      "ageMin": 3,
+      "ageMax": 7,
+      "place": "indoor",
+      "minutes": 60,
+      "energy": "medium",
+      "cost": "free",
+      "materials": [
+        "A large cardboard box",
+        "Tape",
+        "Pens, paint or stickers",
+        "Paper plates and tubes for extras"
+      ],
+      "steps": [
+        "Decide together what the box will become.",
+        "Cut out a door or a window.",
+        "Decorate it with pens and add paper plate dials and tube boosters.",
+        "Climb in and count down to blast-off.",
+        "Take turns describing where you've landed and what you can see."
+      ],
+      "safety": "An adult should do any cutting with scissors or a craft knife. Remove staples first.",
+      "tags": [
+        "building",
+        "pretend-play",
+        "creative",
+        "rainy-day"
+      ],
+      "free": false
+    },
+    {
+      "id": "a032",
+      "title": "Leaf Rubbings",
+      "summary": "Collect leaves and rub crayons over them to reveal their veins.",
+      "ageMin": 4,
+      "ageMax": 8,
+      "place": "either",
+      "minutes": 20,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "Fallen leaves",
+        "Plain paper",
+        "Crayons with the paper peeled off"
+      ],
+      "steps": [
+        "Collect a few different fallen leaves on a walk.",
+        "Place a leaf under a sheet of paper, bumpy side up.",
+        "Rub the side of a crayon gently over the top.",
+        "Watch the shape and veins appear.",
+        "Try different colours and see if you can name each tree."
+      ],
+      "safety": null,
+      "tags": [
+        "autumn",
+        "nature",
+        "creative"
+      ],
+      "free": false
+    },
+    {
+      "id": "a033",
+      "title": "Bottle Bowling",
+      "summary": "Line up plastic bottles as skittles and bowl them over with a ball.",
+      "ageMin": 3,
+      "ageMax": 7,
+      "place": "indoor",
+      "minutes": 20,
+      "energy": "medium",
+      "cost": "free",
+      "materials": [
+        "6 to 10 empty plastic bottles with lids",
+        "A soft ball"
+      ],
+      "steps": [
+        "Rinse the bottles and stand them in a triangle at the end of a hallway.",
+        "Mark a line to bowl from.",
+        "Roll the ball and count how many bottles fall.",
+        "Add up the scores after each round.",
+        "Put a little water in each bottle to make them harder to knock over."
+      ],
+      "safety": "Keep bottle lids screwed on tightly and out of reach of babies and toddlers.",
+      "tags": [
+        "maths",
+        "games",
+        "rainy-day"
+      ],
+      "free": true
+    },
+    {
+      "id": "a034",
+      "title": "Balloon Tennis",
+      "summary": "Bat a balloon back and forth with paper plate rackets.",
+      "ageMin": 4,
+      "ageMax": 8,
+      "place": "indoor",
+      "minutes": 15,
+      "energy": "high",
+      "cost": "low",
+      "materials": [
+        "Balloon",
+        "Two paper plates",
+        "Two lolly sticks or wooden spoons",
+        "Tape"
+      ],
+      "steps": [
+        "Blow up the balloon and tie it.",
+        "Tape a lolly stick or spoon to each plate to make a racket.",
+        "Bat the balloon to each other and count the hits.",
+        "Try to keep it in the air for 10 hits, then 20.",
+        "Play a match using the sofa or a line of cushions as the net."
+      ],
+      "safety": "Children under 8 can choke on uninflated or burst balloons. An adult should blow it up and bin any burst pieces straight away.",
+      "tags": [
+        "active",
+        "games",
+        "rainy-day",
+        "maths"
+      ],
+      "free": false
+    },
+    {
+      "id": "a035",
+      "title": "Junk Model Robots",
+      "summary": "Build robots from boxes, tubes and pots from the recycling.",
+      "ageMin": 4,
+      "ageMax": 9,
+      "place": "indoor",
+      "minutes": 60,
+      "energy": "medium",
+      "cost": "free",
+      "materials": [
+        "Clean boxes, tubes and pots from the recycling",
+        "Tape or glue",
+        "Pens",
+        "Child-safe scissors"
+      ],
+      "steps": [
+        "Raid the recycling for clean boxes, tubes and pots.",
+        "Choose a box for the body and smaller pieces for the head, arms and legs.",
+        "Tape or glue the pieces together.",
+        "Draw on buttons, dials and a face.",
+        "Name your robot and decide what job it does."
+      ],
+      "safety": "Supervise scissors and glue. Bottle tops and other small bits are a choking hazard for under-3s.",
+      "tags": [
+        "building",
+        "creative",
+        "rainy-day"
+      ],
+      "free": false
+    },
+    {
+      "id": "a036",
+      "title": "Rainbow Fruit Kebabs",
+      "summary": "Thread colourful fruit onto sticks to make a rainbow snack.",
+      "ageMin": 4,
+      "ageMax": 8,
+      "place": "indoor",
+      "minutes": 20,
+      "energy": "calm",
+      "cost": "low",
+      "materials": [
+        "A mix of fruit, such as strawberries, satsumas, banana, grapes and blueberries",
+        "Wooden skewers or paper straws",
+        "Chopping board and knife (for adults)"
+      ],
+      "steps": [
+        "Wash your hands and the fruit.",
+        "Ask an adult to chop the fruit into chunks.",
+        "Sort the pieces into piles by colour.",
+        "Thread them onto skewers in rainbow order.",
+        "Eat them and talk about which colour tastes best."
+      ],
+      "safety": "Adults should do the chopping. Snip the sharp tips off skewers, or use paper straws for younger children. Quarter grapes lengthways for little ones, and check for allergies.",
+      "tags": [
+        "cooking",
+        "creative"
+      ],
+      "free": false
+    },
+    {
+      "id": "a037",
+      "title": "Cress Heads",
+      "summary": "Grow cress hair on a decorated eggshell or yoghurt pot (ready in about a week).",
+      "ageMin": 3,
+      "ageMax": 8,
+      "place": "indoor",
+      "minutes": 20,
+      "energy": "calm",
+      "cost": "low",
+      "materials": [
+        "Clean eggshell halves or yoghurt pots",
+        "Cotton wool",
+        "Cress seeds",
+        "Pens"
+      ],
+      "steps": [
+        "Draw a face on the eggshell or pot.",
+        "Fill it with damp cotton wool.",
+        "Sprinkle cress seeds thickly on top.",
+        "Keep it on a sunny windowsill and add a few drops of water each day.",
+        "Check it daily and give your cress head a haircut when the hair has grown."
+      ],
+      "safety": "Wash hands after handling raw eggshells.",
+      "tags": [
+        "science",
+        "nature",
+        "spring"
+      ],
+      "free": false
+    },
+    {
+      "id": "a038",
+      "title": "Fizzing Volcano",
+      "summary": "Make a mini volcano erupt with bicarbonate of soda and vinegar.",
+      "ageMin": 4,
+      "ageMax": 9,
+      "place": "outdoor",
+      "minutes": 20,
+      "energy": "medium",
+      "cost": "low",
+      "materials": [
+        "Small plastic bottle or cup",
+        "2 tablespoons bicarbonate of soda",
+        "Vinegar",
+        "Washing-up liquid",
+        "Red food colouring (optional)",
+        "Tray"
+      ],
+      "steps": [
+        "Stand the bottle on a tray outside.",
+        "Spoon in the bicarbonate of soda and add a squirt of washing-up liquid.",
+        "Add a few drops of food colouring.",
+        "Ask an adult to pour in the vinegar, then stand back and watch it fizz.",
+        "Try different amounts to make a bigger eruption."
+      ],
+      "safety": "Keep faces back and avoid getting vinegar in eyes. The mixture isn't for drinking.",
+      "tags": [
+        "science",
+        "messy"
+      ],
+      "free": false
+    },
+    {
+      "id": "a039",
+      "title": "Treasure Map Hunt",
+      "summary": "Draw a map of the house or garden and follow it to hidden treasure.",
+      "ageMin": 5,
+      "ageMax": 9,
+      "place": "either",
+      "minutes": 45,
+      "energy": "medium",
+      "cost": "free",
+      "materials": [
+        "Paper and pens",
+        "A small treasure, like a toy or a note"
+      ],
+      "steps": [
+        "Draw a simple map of the house or garden together.",
+        "Secretly hide a small treasure and mark the spot with an X.",
+        "Add arrows and clues along the route.",
+        "Hand over the map and follow it to the treasure.",
+        "Swap roles so the children hide the treasure and draw the map."
+      ],
+      "safety": null,
+      "tags": [
+        "games",
+        "maths",
+        "creative"
+      ],
+      "free": true
+    },
+    {
+      "id": "a040",
+      "title": "Indoor Camp-Out",
+      "summary": "Pitch a pretend campsite in the living room for stories and snacks.",
+      "ageMin": 4,
+      "ageMax": 10,
+      "place": "indoor",
+      "minutes": 90,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "Sheets, blankets and pillows",
+        "Chairs or a clothes airer",
+        "Torches",
+        "Books"
+      ],
+      "steps": [
+        "Build a tent by draping a sheet over chairs or a clothes airer.",
+        "Fill it with pillows, sleeping bags and teddies.",
+        "Turn off the lights and switch on the torches.",
+        "Tell stories, read books and make shadow shapes on the tent wall.",
+        "Finish with a campfire snack and a sing-song."
+      ],
+      "safety": "Use torches or battery lights only, never candles. Keep button batteries well out of reach.",
+      "tags": [
+        "rainy-day",
+        "pretend-play",
+        "reading",
+        "quiet-time"
+      ],
+      "free": false
+    },
+    {
+      "id": "a041",
+      "title": "Blanket Den",
+      "summary": "Build a cosy den from blankets, chairs and cushions.",
+      "ageMin": 3,
+      "ageMax": 8,
+      "place": "indoor",
+      "minutes": 30,
+      "energy": "medium",
+      "cost": "free",
+      "materials": [
+        "Blankets and sheets",
+        "Chairs or a sofa",
+        "Cushions",
+        "Clothes pegs"
+      ],
+      "steps": [
+        "Choose a spot between the sofa and some chairs.",
+        "Drape blankets over the top and peg them in place.",
+        "Weigh down the edges with cushions or books.",
+        "Fill the inside with cushions and a favourite toy.",
+        "Name your den and make a sign for the door."
+      ],
+      "safety": "Use light blankets on top and nothing heavy that could fall. Don't use string or cords that could tangle round necks.",
+      "tags": [
+        "building",
+        "rainy-day",
+        "pretend-play"
+      ],
+      "free": true
+    },
+    {
+      "id": "a042",
+      "title": "Swamp Gloop",
+      "summary": "Mix green cornflour gloop that's runny one moment and solid the next.",
+      "ageMin": 3,
+      "ageMax": 8,
+      "place": "indoor",
+      "minutes": 30,
+      "energy": "calm",
+      "cost": "low",
+      "materials": [
+        "1 cup cornflour",
+        "Half a cup of water",
+        "Green food colouring",
+        "Tray",
+        "Plastic spiders or toys (optional)"
+      ],
+      "steps": [
+        "Pour the cornflour into a tray.",
+        "Add a few drops of green food colouring to the water.",
+        "Stir the water in slowly until the mixture goes thick.",
+        "Squeeze a handful into a ball, then open your hand and watch it melt.",
+        "Hide plastic spiders in the swamp and fish them out."
+      ],
+      "safety": "Supervise so the gloop isn't eaten, and keep small toys away from under-3s. Let leftovers dry and bin them rather than pouring them down the sink.",
+      "tags": [
+        "halloween",
+        "messy",
+        "sensory",
+        "science"
+      ],
+      "free": false
+    },
+    {
+      "id": "a043",
+      "title": "Paper Aeroplane Challenge",
+      "summary": "Fold different paper planes and test which design flies furthest.",
+      "ageMin": 6,
+      "ageMax": 12,
+      "place": "either",
+      "minutes": 30,
+      "energy": "medium",
+      "cost": "free",
+      "materials": [
+        "A4 paper",
+        "Tape measure or a long piece of string",
+        "Pencil and paper for results"
+      ],
+      "steps": [
+        "Each fold a paper plane using your own design.",
+        "Mark a launch line on the floor or ground.",
+        "Throw each plane and measure how far it flies.",
+        "Change one thing, like the wing shape, and test again.",
+        "Write down the results and crown the champion plane."
+      ],
+      "safety": "Never throw planes at people's faces.",
+      "tags": [
+        "science",
+        "maths",
+        "building"
+      ],
+      "free": true
+    },
+    {
+      "id": "a044",
+      "title": "Cardboard Marble Run",
+      "summary": "Tape tubes to a box or door to build a twisting marble run.",
+      "ageMin": 6,
+      "ageMax": 11,
+      "place": "indoor",
+      "minutes": 60,
+      "energy": "medium",
+      "cost": "free",
+      "materials": [
+        "Kitchen roll and toilet roll tubes",
+        "Masking tape",
+        "Child-safe scissors",
+        "Marbles or a small ball"
+      ],
+      "steps": [
+        "Cut some tubes in half lengthways to make open chutes.",
+        "Tape the first tube high up on a large box or a door.",
+        "Add more tubes below, angled so the marble drops from one to the next.",
+        "Test a marble and adjust any tube where it gets stuck.",
+        "Put a cup at the bottom to catch it and time each run."
+      ],
+      "safety": "Marbles are a choking hazard, so keep them away from babies and young children. Supervise scissors.",
+      "tags": [
+        "building",
+        "science",
+        "rainy-day"
+      ],
+      "free": false
+    },
+    {
+      "id": "a045",
+      "title": "Comic Strip Studio",
+      "summary": "Plan, draw and write your own comic with a hero, a problem and a twist.",
+      "ageMin": 7,
+      "ageMax": 12,
+      "place": "indoor",
+      "minutes": 45,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "Paper",
+        "Pencil and ruler",
+        "Felt tips or crayons"
+      ],
+      "steps": [
+        "Rule a page into six boxes.",
+        "Invent a hero and a problem they must solve.",
+        "Sketch what happens in each box, saving a twist for the end.",
+        "Add speech bubbles and sound effects like KAPOW.",
+        "Colour it in and read it aloud to the family."
+      ],
+      "safety": null,
+      "tags": [
+        "creative",
+        "writing",
+        "reading",
+        "quiet-time"
+      ],
+      "free": true
+    },
+    {
+      "id": "a046",
+      "title": "Paper Fortune Teller",
+      "summary": "Fold a paper fortune teller and fill it with funny, kind predictions.",
+      "ageMin": 6,
+      "ageMax": 11,
+      "place": "indoor",
+      "minutes": 30,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "A square of paper",
+        "Pens or pencils"
+      ],
+      "steps": [
+        "Fold all four corners of the square into the middle.",
+        "Turn it over and fold the new corners into the middle again.",
+        "Colour the outside squares, number the inner flaps and write a fortune under each flap.",
+        "Fold it in half, push your thumbs and fingers into the pockets and pinch it into a point.",
+        "Ask someone to pick a number, open and close it that many times, then reveal their fortune."
+      ],
+      "safety": null,
+      "tags": [
+        "creative",
+        "games",
+        "writing",
+        "maths"
+      ],
+      "free": false
+    },
+    {
+      "id": "a047",
+      "title": "Invent a Board Game",
+      "summary": "Design, draw and play your own board game with homemade rules.",
+      "ageMin": 7,
+      "ageMax": 12,
+      "place": "indoor",
+      "minutes": 90,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "Large sheet of paper or a flattened cereal box",
+        "Pens",
+        "Buttons or coins as counters",
+        "A dice, or a spinner made from card"
+      ],
+      "steps": [
+        "Choose a theme, like a jungle escape or a space race.",
+        "Draw a winding path of squares from start to finish.",
+        "Add special squares, such as 'go back 3' or 'swap places'.",
+        "Write down the rules, including how to win.",
+        "Play a test game, then change any rule that isn't fun."
+      ],
+      "safety": "Keep buttons and coins away from babies and toddlers.",
+      "tags": [
+        "creative",
+        "maths",
+        "games",
+        "writing"
+      ],
+      "free": false
+    },
+    {
+      "id": "a048",
+      "title": "Egg Drop Challenge",
+      "summary": "Build a contraption that protects a raw egg from a big drop.",
+      "ageMin": 8,
+      "ageMax": 12,
+      "place": "either",
+      "minutes": 60,
+      "energy": "medium",
+      "cost": "low",
+      "materials": [
+        "Raw eggs",
+        "Recycling such as boxes, tubes, paper and plastic bags",
+        "Tape and string",
+        "Child-safe scissors"
+      ],
+      "steps": [
+        "Give each builder one egg, a pile of recycling and a time limit.",
+        "Design and build a case, parachute or cushion to protect the egg.",
+        "Take the contraptions outside.",
+        "Ask an adult to drop each one from the same height, such as from a sturdy step.",
+        "Check the eggs, then improve the designs and try again."
+      ],
+      "safety": "Adults should do the dropping. Never lean out of windows or climb on walls. Wash hands after handling raw egg.",
+      "tags": [
+        "science",
+        "building"
+      ],
+      "free": false
+    },
+    {
+      "id": "a049",
+      "title": "Paper Bridge Challenge",
+      "summary": "Fold one sheet of paper into a bridge and see how many coins it holds.",
+      "ageMin": 7,
+      "ageMax": 12,
+      "place": "indoor",
+      "minutes": 30,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "A4 paper",
+        "Two stacks of books the same height",
+        "A pile of coins"
+      ],
+      "steps": [
+        "Place two stacks of books about 20cm apart.",
+        "Lay a flat sheet of paper across and add coins until it collapses.",
+        "Fold a new sheet into a zigzag, a tube or a channel.",
+        "Test each design and count how many coins it holds.",
+        "Talk about why folding makes the paper stronger."
+      ],
+      "safety": "Keep coins away from babies and toddlers.",
+      "tags": [
+        "science",
+        "maths",
+        "building"
+      ],
+      "free": true
+    },
+    {
+      "id": "a050",
+      "title": "Family Quiz Night",
+      "summary": "Children write the questions and host a family quiz with rounds and scores.",
+      "ageMin": 7,
+      "ageMax": 12,
+      "place": "indoor",
+      "minutes": 60,
+      "energy": "medium",
+      "cost": "free",
+      "materials": [
+        "Paper and pens",
+        "Books or an atlas for ideas"
+      ],
+      "steps": [
+        "Choose three rounds, such as animals, family facts and music.",
+        "Write five questions for each round, with the answers on a separate sheet.",
+        "Split into teams and hand out answer sheets.",
+        "Read the questions aloud, mark the answers and keep score.",
+        "Announce the winners and award a homemade trophy."
+      ],
+      "safety": null,
+      "tags": [
+        "games",
+        "reading",
+        "writing"
+      ],
+      "free": true
+    },
+    {
+      "id": "a051",
+      "title": "Nature Journal",
+      "summary": "Start a journal of sketches, notes and finds from your garden or park.",
+      "ageMin": 6,
+      "ageMax": 12,
+      "place": "outdoor",
+      "minutes": 45,
+      "energy": "calm",
+      "cost": "low",
+      "materials": [
+        "Notebook",
+        "Pencil and coloured pencils"
+      ],
+      "steps": [
+        "Find a comfy spot outside and sit quietly for five minutes.",
+        "Write down the date, the weather and what you can hear.",
+        "Sketch one plant, bird or bug in detail.",
+        "Add notes about its colour, size and what it's doing.",
+        "Come back to the same spot each week and compare."
+      ],
+      "safety": "Don't touch or pick fungi or berries, and wash hands after exploring.",
+      "tags": [
+        "nature",
+        "writing",
+        "science",
+        "quiet-time"
+      ],
+      "free": true
+    },
+    {
+      "id": "a052",
+      "title": "Secret Code Breakers",
+      "summary": "Invent a secret code, write coded messages and crack each other's.",
+      "ageMin": 7,
+      "ageMax": 12,
+      "place": "indoor",
+      "minutes": 30,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "Paper and pencils"
+      ],
+      "steps": [
+        "Write out the alphabet, then write it again underneath, shifted along by three letters.",
+        "Use your key to write a short secret message.",
+        "Swap messages and try to crack them without the key.",
+        "Invent your own code using numbers or symbols.",
+        "Hide a coded message somewhere for someone to find."
+      ],
+      "safety": null,
+      "tags": [
+        "maths",
+        "writing",
+        "games",
+        "quiet-time"
+      ],
+      "free": true
+    },
+    {
+      "id": "a053",
+      "title": "Bake Flapjacks",
+      "summary": "Weigh, mix and bake chewy oat flapjacks.",
+      "ageMin": 7,
+      "ageMax": 12,
+      "place": "indoor",
+      "minutes": 50,
+      "energy": "calm",
+      "cost": "low",
+      "materials": [
+        "125g butter",
+        "125g light brown sugar",
+        "3 tablespoons golden syrup",
+        "250g porridge oats",
+        "Saucepan, 20cm square tin and baking paper"
+      ],
+      "steps": [
+        "Heat the oven to 180°C (160°C fan) and line the tin with baking paper.",
+        "Weigh out the ingredients and read the numbers on the scales.",
+        "Melt the butter, sugar and syrup in a pan over a low heat, with an adult.",
+        "Stir in the oats, then press the mixture into the tin.",
+        "Bake for 20 to 25 minutes until golden, cool in the tin, then cut into squares."
+      ],
+      "safety": "An adult should handle the hob, the oven and the hot tin, as melted sugar gets very hot. Check for allergies first.",
+      "tags": [
+        "cooking",
+        "maths"
+      ],
+      "free": false
+    },
+    {
+      "id": "a054",
+      "title": "Woodland Den",
+      "summary": "Build a shelter from fallen branches on a woodland walk.",
+      "ageMin": 6,
+      "ageMax": 12,
+      "place": "outdoor",
+      "minutes": 90,
+      "energy": "high",
+      "cost": "free",
+      "materials": [
+        "Fallen branches and sticks",
+        "Gloves (optional)"
+      ],
+      "steps": [
+        "Find a spot in the woods with plenty of fallen branches.",
+        "Lean long branches against a sturdy tree trunk or a low fork.",
+        "Weave smaller sticks between them to fill the gaps.",
+        "Cover the frame with dead leaves.",
+        "Test it for size, then take it apart before you leave."
+      ],
+      "safety": "An adult should supervise. Use only fallen wood, never break branches off living trees, and check the frame is stable before anyone goes inside.",
+      "tags": [
+        "nature",
+        "building",
+        "active"
+      ],
+      "free": true
+    },
+    {
+      "id": "a055",
+      "title": "Carrier Bag Kite",
+      "summary": "Make a simple kite from a carrier bag and garden canes, then fly it.",
+      "ageMin": 7,
+      "ageMax": 12,
+      "place": "outdoor",
+      "minutes": 60,
+      "energy": "high",
+      "cost": "low",
+      "materials": [
+        "Plastic carrier bag",
+        "Two thin garden canes or straight sticks",
+        "Strong tape",
+        "Ball of string",
+        "Child-safe scissors"
+      ],
+      "steps": [
+        "Cut the bag open and trim it into a diamond shape.",
+        "Tape one cane down the middle and the other across it, like a cross.",
+        "Reinforce a spot near the cross with tape, make a small hole and tie on the string.",
+        "Add a tail made from strips of the leftover bag.",
+        "On a breezy day in an open field, stand with your back to the wind and let out the string as it lifts."
+      ],
+      "safety": "Fly kites well away from power lines, roads and trees, and never try to free a kite caught on a power line. Keep plastic bags away from young children.",
+      "tags": [
+        "active",
+        "science",
+        "building"
+      ],
+      "free": false
+    },
+    {
+      "id": "a056",
+      "title": "Shadow Sundial",
+      "summary": "Use a stick and stones to tell the time by the sun's shadow.",
+      "ageMin": 7,
+      "ageMax": 12,
+      "place": "outdoor",
+      "minutes": 30,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "A straight stick",
+        "Stones or chalk"
+      ],
+      "steps": [
+        "On a sunny morning, push a stick upright into the lawn or a pot of soil.",
+        "Mark the tip of its shadow with a stone and note the time.",
+        "Come back every hour and mark the shadow again.",
+        "Notice how the shadow moves and changes length through the day.",
+        "Use your marks on the next sunny day to guess the time."
+      ],
+      "safety": "Never look directly at the sun. Use sun cream and hats on bright days.",
+      "tags": [
+        "science",
+        "maths",
+        "summer",
+        "nature"
+      ],
+      "free": false
+    },
+    {
+      "id": "a057",
+      "title": "Straw Rockets",
+      "summary": "Make paper rockets that launch with one big puff through a straw.",
+      "ageMin": 6,
+      "ageMax": 11,
+      "place": "either",
+      "minutes": 30,
+      "energy": "medium",
+      "cost": "low",
+      "materials": [
+        "Drinking straws",
+        "Paper",
+        "Sticky tape",
+        "A pencil a little wider than the straw"
+      ],
+      "steps": [
+        "Wrap a strip of paper round the pencil and tape it to make a tube.",
+        "Fold and tape one end shut to make the nose cone.",
+        "Add small paper fins near the open end.",
+        "Slide the pencil out, put the rocket on a straw and blow hard.",
+        "Measure how far each rocket flies and tweak your design."
+      ],
+      "safety": "Never aim rockets at people or animals.",
+      "tags": [
+        "science",
+        "maths",
+        "building"
+      ],
+      "free": true
+    },
+    {
+      "id": "a058",
+      "title": "Letter to Someone Special",
+      "summary": "Write and post a real letter to a grandparent, friend or neighbour.",
+      "ageMin": 6,
+      "ageMax": 12,
+      "place": "indoor",
+      "minutes": 30,
+      "energy": "calm",
+      "cost": "low",
+      "materials": [
+        "Paper or a card",
+        "Pens",
+        "Envelope",
+        "A stamp"
+      ],
+      "steps": [
+        "Choose someone who would love a surprise in the post.",
+        "Plan three things to tell them and one question to ask.",
+        "Write the letter neatly and decorate the edges.",
+        "Address the envelope together and stick on a stamp.",
+        "Walk to the postbox and post it."
+      ],
+      "safety": null,
+      "tags": [
+        "writing",
+        "kindness",
+        "reading"
+      ],
+      "free": true
+    },
+    {
+      "id": "a059",
+      "title": "Shiny Penny Science",
+      "summary": "Clean dull copper coins with vinegar and salt and watch them gleam.",
+      "ageMin": 6,
+      "ageMax": 10,
+      "place": "indoor",
+      "minutes": 30,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "Dull 1p and 2p coins",
+        "Vinegar",
+        "Salt",
+        "A small bowl",
+        "Kitchen roll"
+      ],
+      "steps": [
+        "Put a couple of dull coins aside to compare later.",
+        "Stir a teaspoon of salt into a small bowl of vinegar.",
+        "Drop in the rest of the coins and wait five minutes.",
+        "Take them out, rinse them in water and dry them on kitchen roll.",
+        "Compare them with the dull coins and talk about what happened."
+      ],
+      "safety": "Keep coins away from babies and toddlers. Avoid getting vinegar in eyes, and wash hands afterwards.",
+      "tags": [
+        "science",
+        "rainy-day"
+      ],
+      "free": false
+    },
+    {
+      "id": "a060",
+      "title": "Sardines",
+      "summary": "Hide-and-seek in reverse: one person hides and every finder squeezes in too.",
+      "ageMin": 5,
+      "ageMax": 12,
+      "place": "either",
+      "minutes": 20,
+      "energy": "high",
+      "cost": "free",
+      "materials": [],
+      "steps": [
+        "Agree which rooms or areas are in bounds.",
+        "One person hides while everyone else counts to 50.",
+        "Seekers search alone, and anyone who finds the hider quietly squeezes in with them.",
+        "Keep going until the last seeker finds the squashed-in group.",
+        "The first person to find the hider hides next."
+      ],
+      "safety": "Never hide anywhere that can shut or lock, such as car boots, wardrobes, chests or appliances.",
+      "tags": [
+        "games",
+        "active"
+      ],
+      "free": true
+    },
+    {
+      "id": "a061",
+      "title": "Litter Pick Patrol",
+      "summary": "Tidy up your street or park and sort what you find for recycling.",
+      "ageMin": 6,
+      "ageMax": 12,
+      "place": "outdoor",
+      "minutes": 30,
+      "energy": "medium",
+      "cost": "free",
+      "materials": [
+        "Gardening or rubber gloves",
+        "Two bags, one for rubbish and one for recycling"
+      ],
+      "steps": [
+        "Pull on gloves and choose a patch of street or park.",
+        "Pick up litter and sort it into rubbish and recycling.",
+        "Keep a tally of the most common thing you find.",
+        "Bin or recycle everything properly when you get home.",
+        "Look back at your patch and celebrate the difference."
+      ],
+      "safety": "An adult should come too. Never touch glass, needles or anything sharp; point it out to the adult instead. Wash hands well afterwards.",
+      "tags": [
+        "nature",
+        "kindness",
+        "maths",
+        "active"
+      ],
+      "free": true
+    },
+    {
+      "id": "a062",
+      "title": "Rain Gauge",
+      "summary": "Make a rain gauge from a bottle and record how much rain falls each day.",
+      "ageMin": 6,
+      "ageMax": 11,
+      "place": "outdoor",
+      "minutes": 20,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "Large plastic bottle",
+        "Scissors (for adults)",
+        "Ruler",
+        "Permanent marker",
+        "A few pebbles"
+      ],
+      "steps": [
+        "Ask an adult to cut the top third off the bottle.",
+        "Drop a few pebbles in the bottom, add water to just above them and mark that line as zero.",
+        "Use a ruler to mark centimetres up the side from the zero line.",
+        "Turn the cut-off top upside down into the bottle to make a funnel.",
+        "Stand it in an open spot outside, away from trees and walls.",
+        "Check it at the same time each day, write down the reading and tip it back to zero."
+      ],
+      "safety": "An adult should do the cutting, as cut plastic edges can be sharp.",
+      "tags": [
+        "science",
+        "maths",
+        "rainy-day",
+        "nature"
+      ],
+      "free": false
+    },
+    {
+      "id": "a063",
+      "title": "Mini Book Club",
+      "summary": "Read the same book as your child and chat about it over a snack.",
+      "ageMin": 7,
+      "ageMax": 12,
+      "place": "either",
+      "minutes": 30,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "A book from home or the library"
+      ],
+      "steps": [
+        "Choose a book together, or borrow one from the library.",
+        "Each read a chapter, on your own or aloud together.",
+        "Meet up with a snack and take turns asking a question about it.",
+        "Predict what will happen next and write your guesses down.",
+        "Check your predictions after the next chapter."
+      ],
+      "safety": null,
+      "tags": [
+        "reading",
+        "quiet-time",
+        "writing"
+      ],
+      "free": true
+    },
+    {
+      "id": "a064",
+      "title": "Bread Rolls from Scratch",
+      "summary": "Knead, shape and bake your own bread rolls (plus about 90 minutes rising).",
+      "ageMin": 8,
+      "ageMax": 12,
+      "place": "indoor",
+      "minutes": 60,
+      "energy": "calm",
+      "cost": "low",
+      "materials": [
+        "500g strong white bread flour",
+        "7g sachet fast-action yeast",
+        "1 teaspoon salt",
+        "300ml warm water",
+        "2 tablespoons oil",
+        "Baking tray"
+      ],
+      "steps": [
+        "Mix the flour, yeast and salt in a big bowl.",
+        "Add the water and oil and stir into a soft dough.",
+        "Knead on a floured surface for 10 minutes until smooth and stretchy.",
+        "Cover and leave somewhere warm for about an hour, until doubled in size.",
+        "Shape into 8 rolls, put them on a floured tray and leave to rise for 30 minutes.",
+        "Bake at 200°C (180°C fan) for 15 to 20 minutes until golden."
+      ],
+      "safety": "An adult should handle the oven and hot trays. Check for allergies first.",
+      "tags": [
+        "cooking",
+        "science",
+        "maths"
+      ],
+      "free": false
+    },
+    {
+      "id": "a065",
+      "title": "Pumpkin Faces",
+      "summary": "Scoop out a pumpkin, design a face and light it with an LED tea light.",
+      "ageMin": 4,
+      "ageMax": 10,
+      "place": "indoor",
+      "minutes": 60,
+      "energy": "medium",
+      "cost": "low",
+      "materials": [
+        "A pumpkin",
+        "Large metal spoon",
+        "Felt-tip pen",
+        "Small serrated knife (for adults)",
+        "LED tea light",
+        "Newspaper"
+      ],
+      "steps": [
+        "Cover the table with newspaper.",
+        "Ask an adult to cut a lid round the stalk.",
+        "Scoop out the seeds and stringy insides with a big spoon.",
+        "Draw a face on the pumpkin with a felt-tip pen.",
+        "Ask an adult to carve along the lines, then pop an LED tea light inside."
+      ],
+      "safety": "Only adults should use knives. Use LED tea lights rather than real candles.",
+      "tags": [
+        "halloween",
+        "autumn",
+        "messy",
+        "creative"
+      ],
+      "free": false
+    },
+    {
+      "id": "a066",
+      "title": "Mummy Wrap Race",
+      "summary": "Race to wrap a grown-up in toilet roll like an Egyptian mummy.",
+      "ageMin": 5,
+      "ageMax": 12,
+      "place": "indoor",
+      "minutes": 15,
+      "energy": "high",
+      "cost": "low",
+      "materials": [
+        "One toilet roll per team"
+      ],
+      "steps": [
+        "Split into teams and choose one person in each to be the mummy.",
+        "Give every team a toilet roll.",
+        "Shout 'go' and race to wrap your mummy from feet to shoulders.",
+        "Stop when the first roll runs out.",
+        "Judge the best mummy, then unwrap and gather the paper into a bag."
+      ],
+      "safety": "Never wrap faces, noses or mouths, and keep the mummy standing still so they don't trip.",
+      "tags": [
+        "halloween",
+        "games",
+        "active"
+      ],
+      "free": true
+    },
+    {
+      "id": "a067",
+      "title": "Salt Dough Decorations",
+      "summary": "Shape, bake and paint salt dough decorations for the tree (plus baking time).",
+      "ageMin": 4,
+      "ageMax": 10,
+      "place": "indoor",
+      "minutes": 60,
+      "energy": "calm",
+      "cost": "low",
+      "materials": [
+        "1 cup plain flour",
+        "Half a cup of salt",
+        "Half a cup of water",
+        "Cookie cutters",
+        "A straw",
+        "Paint and ribbon"
+      ],
+      "steps": [
+        "Mix the flour, salt and water into a smooth dough.",
+        "Roll it out about 5mm thick and cut out shapes with cutters.",
+        "Make a hole near the top of each shape with a straw.",
+        "Ask an adult to bake them at 100°C for 2 to 3 hours until hard, or leave them to air-dry for a few days.",
+        "Once cool, paint them and thread ribbon through the holes.",
+        "Hang them on the tree or give them as gifts."
+      ],
+      "safety": "Salt dough is very salty. Don't let children eat it, and keep the dough and finished decorations away from dogs and other pets. Adults should handle the oven.",
+      "tags": [
+        "christmas",
+        "winter",
+        "creative",
+        "messy"
+      ],
+      "free": false
+    },
+    {
+      "id": "a068",
+      "title": "Christmas Lights Walk",
+      "summary": "Wrap up warm and go on an evening walk to spot the best lights.",
+      "ageMin": 3,
+      "ageMax": 12,
+      "place": "outdoor",
+      "minutes": 45,
+      "energy": "medium",
+      "cost": "free",
+      "materials": [
+        "Warm coats, hats and gloves",
+        "Torch",
+        "Paper and pencil for a tally"
+      ],
+      "steps": [
+        "Wrap up warm and head out just after dark.",
+        "Write a spotting list, like a star, a reindeer, a snowman and blue lights.",
+        "Tick off each one as you see it.",
+        "Vote for the best-lit house on the way.",
+        "Warm up at home and draw your favourite display."
+      ],
+      "safety": "Wear something bright or reflective, carry a torch and hold hands near roads.",
+      "tags": [
+        "christmas",
+        "winter",
+        "games"
+      ],
+      "free": true
+    },
+    {
+      "id": "a069",
+      "title": "Paper Snowflakes",
+      "summary": "Fold and snip paper to make one-of-a-kind snowflakes for the windows.",
+      "ageMin": 5,
+      "ageMax": 10,
+      "place": "indoor",
+      "minutes": 30,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "Plain paper",
+        "Child-safe scissors",
+        "Sticky tape"
+      ],
+      "steps": [
+        "Cut a sheet of paper into a square.",
+        "Fold it in half corner to corner, then in half again, and once more.",
+        "Snip small shapes out of the edges, without cutting all the way across.",
+        "Unfold it carefully to reveal your snowflake.",
+        "Tape your snowflakes to the windows."
+      ],
+      "safety": "Supervise children using scissors.",
+      "tags": [
+        "winter",
+        "christmas",
+        "creative",
+        "maths"
+      ],
+      "free": true
+    },
+    {
+      "id": "a070",
+      "title": "Potato Print Wrapping Paper",
+      "summary": "Stamp festive shapes onto brown paper to make your own gift wrap.",
+      "ageMin": 4,
+      "ageMax": 10,
+      "place": "indoor",
+      "minutes": 45,
+      "energy": "medium",
+      "cost": "low",
+      "materials": [
+        "Potatoes",
+        "Small knife (for adults)",
+        "Paint",
+        "Brown paper or plain paper",
+        "Kitchen roll"
+      ],
+      "steps": [
+        "Ask an adult to cut a potato in half and carve a simple shape, like a star or a tree, into the cut side.",
+        "Dab the cut side dry with kitchen roll.",
+        "Brush paint onto the shape.",
+        "Press it firmly onto the paper and lift it straight up.",
+        "Repeat in a pattern and leave to dry before wrapping presents."
+      ],
+      "safety": "Only adults should use knives. Cover the table and wear old clothes.",
+      "tags": [
+        "christmas",
+        "creative",
+        "messy"
+      ],
+      "free": false
+    },
+    {
+      "id": "a071",
+      "title": "Pine Cone Bird Feeders",
+      "summary": "Pack pine cones with fat and seed to feed garden birds through winter.",
+      "ageMin": 5,
+      "ageMax": 10,
+      "place": "outdoor",
+      "minutes": 30,
+      "energy": "calm",
+      "cost": "low",
+      "materials": [
+        "Pine cones",
+        "Lard or suet",
+        "Bird seed",
+        "String",
+        "Bowl"
+      ],
+      "steps": [
+        "Tie a length of string round the top of each pine cone.",
+        "Let the lard soften at room temperature, then mix in the bird seed.",
+        "Press the mixture into the gaps in the cone with your fingers.",
+        "Chill in the fridge for an hour to set.",
+        "Hang them from a branch or fence and watch for visitors."
+      ],
+      "safety": "Wash hands well afterwards. Use lard or suet rather than leftover cooking fat, and hang feeders where cats can't reach.",
+      "tags": [
+        "winter",
+        "nature",
+        "messy"
+      ],
+      "free": false
+    },
+    {
+      "id": "a072",
+      "title": "Ice Suncatchers",
+      "summary": "Freeze leaves and petals into icy discs to hang outside on a frosty day.",
+      "ageMin": 3,
+      "ageMax": 8,
+      "place": "outdoor",
+      "minutes": 30,
+      "energy": "calm",
+      "cost": "free",
+      "materials": [
+        "Shallow tub or plate",
+        "Water",
+        "Leaves, petals, twigs or orange slices",
+        "String"
+      ],
+      "steps": [
+        "Collect pretty natural bits from the garden or park.",
+        "Arrange them in a shallow tub and pour in a little water.",
+        "Lay a loop of string in the water with the ends hanging over the side.",
+        "Freeze overnight, outside on a frosty night or in the freezer.",
+        "Pop it out and hang it from a branch to catch the light."
+      ],
+      "safety": "Don't pick berries or fungi. Wear gloves if you're handling the ice for long.",
+      "tags": [
+        "winter",
+        "nature",
+        "creative",
+        "science"
+      ],
+      "free": true
+    },
+    {
+      "id": "a073",
+      "title": "Snow Day Sculptures",
+      "summary": "Go beyond the snowman and sculpt animals, castles and dragons from snow.",
+      "ageMin": 3,
+      "ageMax": 12,
+      "place": "outdoor",
+      "minutes": 30,
+      "energy": "high",
+      "cost": "free",
+      "materials": [
+        "Warm, waterproof clothes and gloves",
+        "Buckets, spades and spoons",
+        "Sticks and stones for decoration"
+      ],
+      "steps": [
+        "Wrap up in layers with waterproof gloves.",
+        "Pack snow into buckets to make building blocks.",
+        "Stack and carve the blocks into an animal, a castle or a dragon.",
+        "Decorate with sticks, stones and leaves.",
+        "Head inside to warm up before fingers get too cold."
+      ],
+      "safety": "Come inside if anyone gets very cold or wet. Never walk on frozen ponds, lakes or rivers.",
+      "tags": [
+        "winter",
+        "creative",
+        "active",
+        "building"
+      ],
+      "free": false
+    },
+    {
+      "id": "a074",
+      "title": "Easter Egg Clue Hunt",
+      "summary": "Follow a trail of paper egg clues to a hidden Easter treat.",
+      "ageMin": 4,
+      "ageMax": 9,
+      "place": "either",
+      "minutes": 30,
+      "energy": "high",
+      "cost": "free",
+      "materials": [
+        "Paper or card",
+        "Pens",
+        "A small treat or prize for the end"
+      ],
+      "steps": [
+        "Cut out six to ten paper egg shapes and decorate them.",
+        "Write a clue on each one that leads to the next hiding place.",
+        "Hide the eggs round the house or garden, with the treat at the end.",
+        "Hand over the first clue and let the hunt begin.",
+        "Read clues aloud for younger children, or draw picture clues instead."
+      ],
+      "safety": "Small chocolate eggs are a choking hazard for young children, so pick a bigger treat for little ones.",
+      "tags": [
+        "easter",
+        "games",
+        "reading",
+        "active"
+      ],
+      "free": true
+    },
+    {
+      "id": "a075",
+      "title": "Egg Decorating",
+      "summary": "Hard-boil eggs and decorate them with pens, paint and stickers.",
+      "ageMin": 4,
+      "ageMax": 10,
+      "place": "indoor",
+      "minutes": 45,
+      "energy": "calm",
+      "cost": "low",
+      "materials": [
+        "Eggs",
+        "Saucepan",
+        "Felt-tip pens, paint or stickers",
+        "Egg cups or an egg box"
+      ],
+      "steps": [
+        "Ask an adult to hard-boil the eggs for about 10 minutes, then cool them in cold water.",
+        "Dry the eggs and stand them in egg cups.",
+        "Draw faces, patterns or bunnies on the shells.",
+        "Leave them to dry in an egg box.",
+        "Line them up for an egg-hibition and give each egg a name."
+      ],
+      "safety": "Adults should handle the boiling water. If you plan to eat the eggs, use food-safe colours and keep them in the fridge. Check for egg allergies.",
+      "tags": [
+        "easter",
+        "spring",
+        "creative"
+      ],
+      "free": false
+    },
+    {
+      "id": "a076",
+      "title": "Chocolate Crispy Nests",
+      "summary": "Mix melted chocolate and cereal into nests (plus an hour to set).",
+      "ageMin": 4,
+      "ageMax": 10,
+      "place": "indoor",
+      "minutes": 30,
+      "energy": "calm",
+      "cost": "low",
+      "materials": [
+        "200g milk or dark chocolate",
+        "75g cornflakes or shredded wheat",
+        "Paper cake cases",
+        "Mini chocolate eggs (optional)",
+        "Heatproof bowl"
+      ],
+      "steps": [
+        "Break the chocolate into a heatproof bowl.",
+        "Ask an adult to melt it in short bursts in the microwave or over a pan of simmering water.",
+        "Stir in the cereal until it's all coated.",
+        "Spoon the mixture into cake cases and press a dip in the middle.",
+        "Add a few mini eggs and chill for an hour to set."
+      ],
+      "safety": "Melted chocolate can be very hot, so an adult should do the melting. Mini eggs are a choking hazard for young children. Check for allergies.",
+      "tags": [
+        "easter",
+        "cooking",
+        "messy"
+      ],
+      "free": false
+    },
+    {
+      "id": "a077",
+      "title": "Egg and Spoon Race",
+      "summary": "A garden classic: race to the finish without dropping your egg.",
+      "ageMin": 3,
+      "ageMax": 10,
+      "place": "outdoor",
+      "minutes": 20,
+      "energy": "high",
+      "cost": "free",
+      "materials": [
+        "Spoons",
+        "Hard-boiled eggs, small potatoes or balls"
+      ],
+      "steps": [
+        "Mark a start and finish line in the garden or park.",
+        "Balance an egg or potato on each spoon.",
+        "Race to the finish, and if it drops, stop and pick it up before carrying on.",
+        "Make it harder by walking backwards or using your other hand.",
+        "Hold a grand final and award a medal made from card."
+      ],
+      "safety": null,
+      "tags": [
+        "easter",
+        "summer",
+        "active",
+        "games"
+      ],
+      "free": true
+    },
+    {
+      "id": "a078",
+      "title": "Homemade Ice Lollies",
+      "summary": "Freeze fruit juice and chopped fruit into lollies (ready in about 4 hours).",
+      "ageMin": 3,
+      "ageMax": 10,
+      "place": "indoor",
+      "minutes": 15,
+      "energy": "calm",
+      "cost": "low",
+      "materials": [
+        "Fruit juice",
+        "Soft fruit, such as berries or banana",
+        "Lolly moulds, or paper cups and lolly sticks"
+      ],
+      "steps": [
+        "Wash your hands and chop the soft fruit into small pieces, with an adult helping.",
+        "Drop a few pieces into each mould or cup.",
+        "Pour in fruit juice until almost full.",
+        "Add the sticks and freeze for at least four hours, or overnight.",
+        "Hold the moulds under warm water for a few seconds to free the lollies."
+      ],
+      "safety": "An adult should help with any chopping. Cut round fruit like grapes small, and stay with young children while they eat.",
+      "tags": [
+        "summer",
+        "cooking"
+      ],
+      "free": false
+    },
+    {
+      "id": "a079",
+      "title": "Garden Sports Day",
+      "summary": "Run your own sports day with sack races, relays and homemade medals.",
+      "ageMin": 4,
+      "ageMax": 12,
+      "place": "outdoor",
+      "minutes": 60,
+      "energy": "high",
+      "cost": "free",
+      "materials": [
+        "Old pillowcases for sack races",
+        "Buckets, beanbags or rolled-up socks",
+        "Card and string for medals"
+      ],
+      "steps": [
+        "Plan four or five events, such as a sack race, a relay and a beanbag throw.",
+        "Mark out a track with jumpers, shoes or chalk.",
+        "Run each event and write down the results.",
+        "Make medals from card and string while you rest.",
+        "Hold a medal ceremony with everyone on the podium."
+      ],
+      "safety": "Check the grass for holes and stones first. In warm weather, take water breaks and use shade, hats and sun cream.",
+      "tags": [
+        "summer",
+        "active",
+        "games",
+        "maths"
+      ],
+      "free": true
+    },
+    {
+      "id": "a080",
+      "title": "Sponge Splash Relay",
+      "summary": "Race to fill a bucket by running with soaking wet sponges.",
+      "ageMin": 4,
+      "ageMax": 10,
+      "place": "outdoor",
+      "minutes": 30,
+      "energy": "high",
+      "cost": "low",
+      "materials": [
+        "Two buckets per team",
+        "A large sponge per team",
+        "Water"
+      ],
+      "steps": [
+        "Fill one bucket per team with water and put an empty bucket at the other end of the garden.",
+        "Draw a target line inside each empty bucket.",
+        "Run with a soaked sponge, squeeze it into the empty bucket and run back.",
+        "Pass the sponge to the next runner.",
+        "The first team to reach the line wins, then everyone gets a splash."
+      ],
+      "safety": "Stay with children around buckets of water at all times and empty them as soon as you're done. Watch for slippery grass.",
+      "tags": [
+        "summer",
+        "active",
+        "games"
+      ],
+      "free": false
+    }
+  ]
+}
