@@ -5,6 +5,7 @@ export const brand: Brand = {
   name: 'KidQuest',
   tagline: 'Screen-free activity ideas in seconds',
   fonts: { display: 'Nunito_800ExtraBold' },
+  defaultTheme: 'sky',
   radius: 20,
   light: {
     bg: '#FFFBEB',
