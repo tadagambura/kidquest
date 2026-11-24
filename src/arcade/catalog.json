@@ -135,7 +135,7 @@
       "name": "Nature Explorer",
       "emoji": "🔍",
       "mechanic": "spinner",
-      "tier": "arcade_subscription",
+      "tier": "arcade",
       "how": "Spin a nature mission, then head outside with a grown-up.",
       "teaches": "Time outdoors is good for growing bodies and minds.",
       "seconds": 45,
