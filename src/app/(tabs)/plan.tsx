@@ -1,4 +1,5 @@
 import { router } from 'expo-router';
+import { AdBanner } from '@/kit/ads';
 import { formatDay, todayKey } from '@/kit/dates';
 import { Card, H1, IconButton, Muted, Row, Screen, Section, Strong } from '@/kit/ui';
 import { weekDays } from '@/domain/activities';
@@ -10,7 +11,7 @@ export default function Plan() {
   const days = weekDays(today);
   const planned = days.reduce((n, d) => n + (q.plan[d]?.length ?? 0), 0);
   return (
-    <Screen testID="week">
+    <Screen testID="week" banner={<AdBanner placement="plan_banner" />}>
       <H1>This week</H1>
       <Muted>{planned ? `${planned} activities planned. 🚀` : 'Open any activity and tap "Plan it" to put it on a day.'}</Muted>
       {days.map((d) => (
