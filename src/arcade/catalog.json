@@ -1,0 +1,149 @@
+{
+  "app": "kidquest",
+  "title": "Family Fun Arcade",
+  "emoji": "🎲",
+  "currency": {
+    "name": "Stars",
+    "one": "star",
+    "emoji": "⭐"
+  },
+  "unlocks": "stickers, collectible characters and seasonal activity packs",
+  "games": [
+    {
+      "id": "activity-roulette",
+      "name": "Activity Roulette",
+      "emoji": "🎡",
+      "mechanic": "spinner",
+      "tier": "free",
+      "how": "Spin for a screen-free challenge, then go and do it together.",
+      "teaches": "Play builds creativity, movement and confidence.",
+      "seconds": 45,
+      "flagship": true,
+      "pack": {
+        "file": "kidquest/activity-roulette.d84be67302.json",
+        "sha256": "d84be6730286c0e5d5c500b43b8251306967610553dc7632a5e729e49be04ca0",
+        "bytes": 635
+      }
+    },
+    {
+      "id": "animal-charades",
+      "name": "Animal Charades",
+      "emoji": "🐘",
+      "mechanic": "spinner",
+      "tier": "free",
+      "how": "Spin an animal and act it out. No words allowed! Everyone else guesses.",
+      "teaches": "Acting builds imagination and body confidence.",
+      "seconds": 45,
+      "pack": {
+        "file": "kidquest/animal-charades.22508c1939.json",
+        "sha256": "22508c193914f06def0873038188596b24bf50b3e7ae1aab4f250197271e78f9",
+        "bytes": 564
+      }
+    },
+    {
+      "id": "riddle-me-this",
+      "name": "Riddle Me This",
+      "emoji": "❓",
+      "mechanic": "quiz",
+      "tier": "free",
+      "how": "Read the riddle and pick the answer. Grown-ups can read it out.",
+      "teaches": "Riddles stretch thinking and wordplay.",
+      "seconds": 45,
+      "pack": {
+        "file": "kidquest/riddle-me-this.a5a69a94d7.json",
+        "sha256": "a5a69a94d7dfaabdd71afa824e3ab0103f7e1fc69c6d5ac10f75b99d854013b9",
+        "bytes": 1092
+      }
+    },
+    {
+      "id": "animal-pairs",
+      "name": "Animal Pairs",
+      "emoji": "🐾",
+      "mechanic": "memory",
+      "tier": "free",
+      "how": "Flip the cards and match each animal to its baby's name.",
+      "teaches": "New words, the fun way.",
+      "seconds": 45,
+      "pack": {
+        "file": "kidquest/animal-pairs.07e5bd9940.json",
+        "sha256": "07e5bd9940fcd61e769ef4895368883725d38ad7aa202b377e6e7ca5ba0efb12",
+        "bytes": 147
+      }
+    },
+    {
+      "id": "drawing-dash",
+      "name": "Drawing Dash",
+      "emoji": "🖍️",
+      "mechanic": "spinner",
+      "tier": "arcade",
+      "how": "Spin a thing to draw. You've got 60 seconds. Go!",
+      "teaches": "Quick drawing builds fine motor skills and imagination.",
+      "seconds": 45,
+      "pack": {
+        "file": "kidquest/drawing-dash.1c486bf0b3.json",
+        "sha256": "1c486bf0b327104ca4c099f03dea3ccc7158b36599bfd97d64b3f502bc057f92",
+        "bytes": 685
+      }
+    },
+    {
+      "id": "treasure-hunt",
+      "name": "Treasure Hunt",
+      "emoji": "🗺️",
+      "mechanic": "spinner",
+      "tier": "arcade",
+      "how": "Spin a clue and hunt for something that matches around the house or garden.",
+      "teaches": "Hunting and noticing builds observation skills.",
+      "seconds": 45,
+      "pack": {
+        "file": "kidquest/treasure-hunt.30e40794f0.json",
+        "sha256": "30e40794f059c037cbc6d865e2fc13b921308c4d7f3f93a94c6f59d4f521d452",
+        "bytes": 396
+      }
+    },
+    {
+      "id": "build-it",
+      "name": "Build It!",
+      "emoji": "🧱",
+      "mechanic": "spinner",
+      "tier": "arcade",
+      "how": "Spin a build challenge using things from around the house.",
+      "teaches": "Building teaches problem-solving and patience.",
+      "seconds": 45,
+      "pack": {
+        "file": "kidquest/build-it.948ac56a2d.json",
+        "sha256": "948ac56a2d2f93184bdd106b8c4c6a51c61f146ae8a4127821bdf70cbf23a256",
+        "bytes": 348
+      }
+    },
+    {
+      "id": "story-spinner",
+      "name": "Story Spinner",
+      "emoji": "📖",
+      "mechanic": "spinner",
+      "tier": "arcade",
+      "how": "Spin a hero, a place and a problem, then tell the story together.",
+      "teaches": "Storytelling grows language and imagination.",
+      "seconds": 45,
+      "pack": {
+        "file": "kidquest/story-spinner.7b0f97ce1f.json",
+        "sha256": "7b0f97ce1f471501c43208576afb306e2365b644db89f7ad3d04df9df82b2bb8",
+        "bytes": 466
+      }
+    },
+    {
+      "id": "nature-explorer",
+      "name": "Nature Explorer",
+      "emoji": "🔍",
+      "mechanic": "spinner",
+      "tier": "arcade_subscription",
+      "how": "Spin a nature mission, then head outside with a grown-up.",
+      "teaches": "Time outdoors is good for growing bodies and minds.",
+      "seconds": 45,
+      "pack": {
+        "file": "kidquest/nature-explorer.dfa8d36d14.json",
+        "sha256": "dfa8d36d14c35ce530a9f39341240ed8ea70f8db20f682fb01c16c3071262de6",
+        "bytes": 549
+      }
+    }
+  ]
+}
