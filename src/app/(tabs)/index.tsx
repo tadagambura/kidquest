@@ -7,6 +7,8 @@ import { Button, Chip, EmptyState, Field, H1, IconButton, Muted, Row, Screen, Se
 import { ageError, roll, search, TAG_LABELS } from '@/domain/activities';
 import { ActivityCard } from '@/components/ActivityCard';
 import { doneCount, library, useQuest } from '@/state/quest';
+import '@/arcade';
+import { ArcadeEntry } from '@/kit/arcade/screens';
 
 const TIMES: { v: number | null; l: string }[] = [
   { v: 15, l: '15 min' },
@@ -76,6 +78,7 @@ export default function Find() {
         ))}
       </Stack>
       <PaywallSheet visible={paywall} onClose={() => setPaywall(false)} reason="That one's in the full library. Premium unlocks every activity and the seasonal packs." />
+      <ArcadeEntry />
     </Screen>
   );
 }
